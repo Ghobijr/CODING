@@ -1,0 +1,9 @@
+# Ignore the .csproj file
+C# Coding.csproj
+
+# Ignore build output directories
+bin/
+obj/
+
+#ignore sln
+CODING.sln
