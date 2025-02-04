@@ -1,0 +1,36 @@
+# #1)
+Favourite1=('Movie')
+Favourite2=('Eating')
+Favourite3= ('Outdoors')
+
+print (Favourite1)
+print (Favourite2)
+print (Favourite3)
+
+firstname="Joe"
+lastname="Ghobi"
+address=" 26 Gaflitefish Road"
+Detail_full= f"{firstname}{lastname}{address}"
+print(Detail_full)
+
+a1=("first name")
+a2=("last name")
+a3=("address")
+
+details= f"{a1}{a2}{a3}"
+print(details)
+
+#2)
+software = ['whatsapp','maps','calender']
+software.append('Kaspersky')
+software.insert(2, 'Facebook')
+print(software)
+
+#3)
+course = ['comp100', 'comp120', 'comp213']
+print(course[0], course[1], course[2])
+print("My first course im taking is " , course[0])
+print("My first course im taking is " , course[1])
+print("My first course im taking is " , course[2])
+course.append ('GNET')
+print (course)

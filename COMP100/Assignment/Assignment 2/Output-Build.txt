@@ -1,0 +1,6 @@
+﻿Rebuild started at 3:07 PM...
+1>------ Rebuild All started: Project: LabDataTypes, Configuration: Debug Any CPU ------
+Restored D:\Studying\Centennial\CODING\COMP100\Assignment\Assignment 2\LabDataTypes\LabDataTypes\LabDataTypes.csproj (in 53 ms).
+1>LabDataTypes -> D:\Studying\Centennial\CODING\COMP100\Assignment\Assignment 2\LabDataTypes\LabDataTypes\bin\Debug\net9.0\LabDataTypes.dll
+========== Rebuild All: 1 succeeded, 0 failed, 0 skipped ==========
+========== Rebuild completed at 3:07 PM and took 01.246 seconds ==========

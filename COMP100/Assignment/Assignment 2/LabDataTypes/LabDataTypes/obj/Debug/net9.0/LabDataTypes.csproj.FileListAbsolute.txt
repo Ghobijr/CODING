@@ -1,0 +1,15 @@
+D:\Studying\Centennial\CODING\COMP100\Assignment\Assignment 2\LabDataTypes\LabDataTypes\bin\Debug\net9.0\LabDataTypes.exe
+D:\Studying\Centennial\CODING\COMP100\Assignment\Assignment 2\LabDataTypes\LabDataTypes\bin\Debug\net9.0\LabDataTypes.dll
+D:\Studying\Centennial\CODING\COMP100\Assignment\Assignment 2\LabDataTypes\LabDataTypes\obj\Debug\net9.0\LabDataTypes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studying\Centennial\CODING\COMP100\Assignment\Assignment 2\LabDataTypes\LabDataTypes\obj\Debug\net9.0\LabDataTypes.AssemblyInfoInputs.cache
+D:\Studying\Centennial\CODING\COMP100\Assignment\Assignment 2\LabDataTypes\LabDataTypes\obj\Debug\net9.0\LabDataTypes.AssemblyInfo.cs
+D:\Studying\Centennial\CODING\COMP100\Assignment\Assignment 2\LabDataTypes\LabDataTypes\obj\Debug\net9.0\LabDataTypes.csproj.CoreCompileInputs.cache
+D:\Studying\Centennial\CODING\COMP100\Assignment\Assignment 2\LabDataTypes\LabDataTypes\obj\Debug\net9.0\LabDataTypes.sourcelink.json
+D:\Studying\Centennial\CODING\COMP100\Assignment\Assignment 2\LabDataTypes\LabDataTypes\obj\Debug\net9.0\LabDataTypes.dll
+D:\Studying\Centennial\CODING\COMP100\Assignment\Assignment 2\LabDataTypes\LabDataTypes\obj\Debug\net9.0\refint\LabDataTypes.dll
+D:\Studying\Centennial\CODING\COMP100\Assignment\Assignment 2\LabDataTypes\LabDataTypes\obj\Debug\net9.0\LabDataTypes.pdb
+D:\Studying\Centennial\CODING\COMP100\Assignment\Assignment 2\LabDataTypes\LabDataTypes\bin\Debug\net9.0\LabDataTypes.deps.json
+D:\Studying\Centennial\CODING\COMP100\Assignment\Assignment 2\LabDataTypes\LabDataTypes\bin\Debug\net9.0\LabDataTypes.runtimeconfig.json
+D:\Studying\Centennial\CODING\COMP100\Assignment\Assignment 2\LabDataTypes\LabDataTypes\bin\Debug\net9.0\LabDataTypes.pdb
+D:\Studying\Centennial\CODING\COMP100\Assignment\Assignment 2\LabDataTypes\LabDataTypes\obj\Debug\net9.0\LabDataTypes.genruntimeconfig.cache
+D:\Studying\Centennial\CODING\COMP100\Assignment\Assignment 2\LabDataTypes\LabDataTypes\obj\Debug\net9.0\ref\LabDataTypes.dll

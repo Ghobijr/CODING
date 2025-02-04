@@ -1,0 +1,30 @@
+D:\Studying\Centennial\CODING\COMP100\VS\Practice\Fun Mini Project Assignment\Fun Mini Project Assignment\bin\Debug\net9.0\Fun Mini Project Assignment.exe
+D:\Studying\Centennial\CODING\COMP100\VS\Practice\Fun Mini Project Assignment\Fun Mini Project Assignment\bin\Debug\net9.0\Fun Mini Project Assignment.deps.json
+D:\Studying\Centennial\CODING\COMP100\VS\Practice\Fun Mini Project Assignment\Fun Mini Project Assignment\bin\Debug\net9.0\Fun Mini Project Assignment.runtimeconfig.json
+D:\Studying\Centennial\CODING\COMP100\VS\Practice\Fun Mini Project Assignment\Fun Mini Project Assignment\bin\Debug\net9.0\Fun Mini Project Assignment.dll
+D:\Studying\Centennial\CODING\COMP100\VS\Practice\Fun Mini Project Assignment\Fun Mini Project Assignment\bin\Debug\net9.0\Fun Mini Project Assignment.pdb
+D:\Studying\Centennial\CODING\COMP100\VS\Practice\Fun Mini Project Assignment\Fun Mini Project Assignment\obj\Debug\net9.0\Fun Mini Project Assignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studying\Centennial\CODING\COMP100\VS\Practice\Fun Mini Project Assignment\Fun Mini Project Assignment\obj\Debug\net9.0\Fun Mini Project Assignment.AssemblyInfoInputs.cache
+D:\Studying\Centennial\CODING\COMP100\VS\Practice\Fun Mini Project Assignment\Fun Mini Project Assignment\obj\Debug\net9.0\Fun Mini Project Assignment.AssemblyInfo.cs
+D:\Studying\Centennial\CODING\COMP100\VS\Practice\Fun Mini Project Assignment\Fun Mini Project Assignment\obj\Debug\net9.0\Fun Mini Project Assignment.csproj.CoreCompileInputs.cache
+D:\Studying\Centennial\CODING\COMP100\VS\Practice\Fun Mini Project Assignment\Fun Mini Project Assignment\obj\Debug\net9.0\Fun Mini Project Assignment.sourcelink.json
+D:\Studying\Centennial\CODING\COMP100\VS\Practice\Fun Mini Project Assignment\Fun Mini Project Assignment\obj\Debug\net9.0\Fun Mini Project Assignment.dll
+D:\Studying\Centennial\CODING\COMP100\VS\Practice\Fun Mini Project Assignment\Fun Mini Project Assignment\obj\Debug\net9.0\refint\Fun Mini Project Assignment.dll
+D:\Studying\Centennial\CODING\COMP100\VS\Practice\Fun Mini Project Assignment\Fun Mini Project Assignment\obj\Debug\net9.0\Fun Mini Project Assignment.pdb
+D:\Studying\Centennial\CODING\COMP100\VS\Practice\Fun Mini Project Assignment\Fun Mini Project Assignment\obj\Debug\net9.0\Fun Mini Project Assignment.genruntimeconfig.cache
+D:\Studying\Centennial\CODING\COMP100\VS\Practice\Fun Mini Project Assignment\Fun Mini Project Assignment\obj\Debug\net9.0\ref\Fun Mini Project Assignment.dll
+D:\Studying\Centennial\CODING\COMP100\Assignment\Assignment 3\Fun Mini Project Assignment\Fun Mini Project Assignment\bin\Debug\net9.0\Fun Mini Project Assignment.exe
+D:\Studying\Centennial\CODING\COMP100\Assignment\Assignment 3\Fun Mini Project Assignment\Fun Mini Project Assignment\bin\Debug\net9.0\Fun Mini Project Assignment.deps.json
+D:\Studying\Centennial\CODING\COMP100\Assignment\Assignment 3\Fun Mini Project Assignment\Fun Mini Project Assignment\bin\Debug\net9.0\Fun Mini Project Assignment.runtimeconfig.json
+D:\Studying\Centennial\CODING\COMP100\Assignment\Assignment 3\Fun Mini Project Assignment\Fun Mini Project Assignment\bin\Debug\net9.0\Fun Mini Project Assignment.dll
+D:\Studying\Centennial\CODING\COMP100\Assignment\Assignment 3\Fun Mini Project Assignment\Fun Mini Project Assignment\bin\Debug\net9.0\Fun Mini Project Assignment.pdb
+D:\Studying\Centennial\CODING\COMP100\Assignment\Assignment 3\Fun Mini Project Assignment\Fun Mini Project Assignment\obj\Debug\net9.0\Fun Mini Project Assignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studying\Centennial\CODING\COMP100\Assignment\Assignment 3\Fun Mini Project Assignment\Fun Mini Project Assignment\obj\Debug\net9.0\Fun Mini Project Assignment.AssemblyInfoInputs.cache
+D:\Studying\Centennial\CODING\COMP100\Assignment\Assignment 3\Fun Mini Project Assignment\Fun Mini Project Assignment\obj\Debug\net9.0\Fun Mini Project Assignment.AssemblyInfo.cs
+D:\Studying\Centennial\CODING\COMP100\Assignment\Assignment 3\Fun Mini Project Assignment\Fun Mini Project Assignment\obj\Debug\net9.0\Fun Mini Project Assignment.csproj.CoreCompileInputs.cache
+D:\Studying\Centennial\CODING\COMP100\Assignment\Assignment 3\Fun Mini Project Assignment\Fun Mini Project Assignment\obj\Debug\net9.0\Fun Mini Project Assignment.sourcelink.json
+D:\Studying\Centennial\CODING\COMP100\Assignment\Assignment 3\Fun Mini Project Assignment\Fun Mini Project Assignment\obj\Debug\net9.0\Fun Mini Project Assignment.dll
+D:\Studying\Centennial\CODING\COMP100\Assignment\Assignment 3\Fun Mini Project Assignment\Fun Mini Project Assignment\obj\Debug\net9.0\refint\Fun Mini Project Assignment.dll
+D:\Studying\Centennial\CODING\COMP100\Assignment\Assignment 3\Fun Mini Project Assignment\Fun Mini Project Assignment\obj\Debug\net9.0\Fun Mini Project Assignment.pdb
+D:\Studying\Centennial\CODING\COMP100\Assignment\Assignment 3\Fun Mini Project Assignment\Fun Mini Project Assignment\obj\Debug\net9.0\Fun Mini Project Assignment.genruntimeconfig.cache
+D:\Studying\Centennial\CODING\COMP100\Assignment\Assignment 3\Fun Mini Project Assignment\Fun Mini Project Assignment\obj\Debug\net9.0\ref\Fun Mini Project Assignment.dll

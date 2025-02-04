@@ -1,0 +1,47 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Studying\\Centennial\\CODING\\COMP100\\Assignment\\Assignment 2\\LabDataTypes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4E78784D-A32C-49F0-AAAA-5302197E697D}|LabDataTypes\\LabDataTypes.csproj|d:\\studying\\centennial\\coding\\comp100\\assignment\\assignment 2\\labdatatypes\\labdatatypes\\labdatatypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E78784D-A32C-49F0-AAAA-5302197E697D}|LabDataTypes\\LabDataTypes.csproj|solutionrelative:labdatatypes\\labdatatypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LabDataTypes.cs",
+              "DocumentMoniker": "D:\\Studying\\Centennial\\CODING\\COMP100\\Assignment\\Assignment 2\\LabDataTypes\\LabDataTypes\\LabDataTypes.cs",
+              "RelativeDocumentMoniker": "LabDataTypes\\LabDataTypes.cs",
+              "ToolTip": "D:\\Studying\\Centennial\\CODING\\COMP100\\Assignment\\Assignment 2\\LabDataTypes\\LabDataTypes\\LabDataTypes.cs",
+              "RelativeToolTip": "LabDataTypes\\LabDataTypes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T20:04:02.915Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

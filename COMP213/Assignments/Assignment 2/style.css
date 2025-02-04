@@ -1,0 +1,24 @@
+body{
+    background-color: #c1b8b8;
+}
+
+header{
+    height: 100px;
+    width: 500px;
+    outline-style:dashed;
+    outline-width: 1px;
+    text-align: center;
+    padding-top: 20px;
+}
+
+ul{
+    list-style-type: square;
+}
+
+h2{
+    font-family: sans-serif;
+}
+
+footer{
+    text-transform: uppercase;    
+}

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Fun Mini Project Assignment/1.0.0": {
+        "runtime": {
+          "Fun Mini Project Assignment.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Fun Mini Project Assignment/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
