@@ -53,10 +53,19 @@ tbody > tr:nth-last-of-type(odd) {
    background-color: #84d9fa ;
 }
 
+label, textarea {
+    display: block;
+}
+
+input,textarea {
+    margin-bottom:1.5em;
+}
+
 .resort {
     color:#5C7FA3;
     font-weight:bold;
 }
+
 
 .left {
     text-align:left;

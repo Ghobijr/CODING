@@ -1,0 +1,15 @@
+D:\Studying\Centennial\CODING\COMP100\Practice\Days of the week\Days of the week\obj\Debug\net8.0\Days of the week.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studying\Centennial\CODING\COMP100\Practice\Days of the week\Days of the week\obj\Debug\net8.0\Days of the week.AssemblyInfoInputs.cache
+D:\Studying\Centennial\CODING\COMP100\Practice\Days of the week\Days of the week\obj\Debug\net8.0\Days of the week.AssemblyInfo.cs
+D:\Studying\Centennial\CODING\COMP100\Practice\Days of the week\Days of the week\obj\Debug\net8.0\Days of the week.csproj.CoreCompileInputs.cache
+D:\Studying\Centennial\CODING\COMP100\Practice\Days of the week\Days of the week\obj\Debug\net8.0\Days of the week.sourcelink.json
+D:\Studying\Centennial\CODING\COMP100\Practice\Days of the week\Days of the week\bin\Debug\net8.0\Days of the week.exe
+D:\Studying\Centennial\CODING\COMP100\Practice\Days of the week\Days of the week\bin\Debug\net8.0\Days of the week.deps.json
+D:\Studying\Centennial\CODING\COMP100\Practice\Days of the week\Days of the week\bin\Debug\net8.0\Days of the week.runtimeconfig.json
+D:\Studying\Centennial\CODING\COMP100\Practice\Days of the week\Days of the week\bin\Debug\net8.0\Days of the week.dll
+D:\Studying\Centennial\CODING\COMP100\Practice\Days of the week\Days of the week\bin\Debug\net8.0\Days of the week.pdb
+D:\Studying\Centennial\CODING\COMP100\Practice\Days of the week\Days of the week\obj\Debug\net8.0\Days of the week.dll
+D:\Studying\Centennial\CODING\COMP100\Practice\Days of the week\Days of the week\obj\Debug\net8.0\refint\Days of the week.dll
+D:\Studying\Centennial\CODING\COMP100\Practice\Days of the week\Days of the week\obj\Debug\net8.0\Days of the week.pdb
+D:\Studying\Centennial\CODING\COMP100\Practice\Days of the week\Days of the week\obj\Debug\net8.0\Days of the week.genruntimeconfig.cache
+D:\Studying\Centennial\CODING\COMP100\Practice\Days of the week\Days of the week\obj\Debug\net8.0\ref\Days of the week.dll

@@ -1,0 +1,15 @@
+D:\Studying\Centennial\CODING\COMP100\Practice\Pratice for Tests\Pratice for Tests\bin\Debug\net8.0\Pratice for Tests.exe
+D:\Studying\Centennial\CODING\COMP100\Practice\Pratice for Tests\Pratice for Tests\bin\Debug\net8.0\Pratice for Tests.deps.json
+D:\Studying\Centennial\CODING\COMP100\Practice\Pratice for Tests\Pratice for Tests\bin\Debug\net8.0\Pratice for Tests.runtimeconfig.json
+D:\Studying\Centennial\CODING\COMP100\Practice\Pratice for Tests\Pratice for Tests\bin\Debug\net8.0\Pratice for Tests.dll
+D:\Studying\Centennial\CODING\COMP100\Practice\Pratice for Tests\Pratice for Tests\bin\Debug\net8.0\Pratice for Tests.pdb
+D:\Studying\Centennial\CODING\COMP100\Practice\Pratice for Tests\Pratice for Tests\obj\Debug\net8.0\Pratice for Tests.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studying\Centennial\CODING\COMP100\Practice\Pratice for Tests\Pratice for Tests\obj\Debug\net8.0\Pratice for Tests.AssemblyInfoInputs.cache
+D:\Studying\Centennial\CODING\COMP100\Practice\Pratice for Tests\Pratice for Tests\obj\Debug\net8.0\Pratice for Tests.AssemblyInfo.cs
+D:\Studying\Centennial\CODING\COMP100\Practice\Pratice for Tests\Pratice for Tests\obj\Debug\net8.0\Pratice for Tests.csproj.CoreCompileInputs.cache
+D:\Studying\Centennial\CODING\COMP100\Practice\Pratice for Tests\Pratice for Tests\obj\Debug\net8.0\Pratice for Tests.sourcelink.json
+D:\Studying\Centennial\CODING\COMP100\Practice\Pratice for Tests\Pratice for Tests\obj\Debug\net8.0\Pratice for Tests.dll
+D:\Studying\Centennial\CODING\COMP100\Practice\Pratice for Tests\Pratice for Tests\obj\Debug\net8.0\refint\Pratice for Tests.dll
+D:\Studying\Centennial\CODING\COMP100\Practice\Pratice for Tests\Pratice for Tests\obj\Debug\net8.0\Pratice for Tests.pdb
+D:\Studying\Centennial\CODING\COMP100\Practice\Pratice for Tests\Pratice for Tests\obj\Debug\net8.0\Pratice for Tests.genruntimeconfig.cache
+D:\Studying\Centennial\CODING\COMP100\Practice\Pratice for Tests\Pratice for Tests\obj\Debug\net8.0\ref\Pratice for Tests.dll

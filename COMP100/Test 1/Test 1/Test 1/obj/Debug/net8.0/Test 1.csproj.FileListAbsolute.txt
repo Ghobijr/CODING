@@ -1,0 +1,15 @@
+D:\Studying\Centennial\CODING\COMP100\Test 1\Test 1\Test 1\bin\Debug\net8.0\Test 1.exe
+D:\Studying\Centennial\CODING\COMP100\Test 1\Test 1\Test 1\bin\Debug\net8.0\Test 1.deps.json
+D:\Studying\Centennial\CODING\COMP100\Test 1\Test 1\Test 1\bin\Debug\net8.0\Test 1.runtimeconfig.json
+D:\Studying\Centennial\CODING\COMP100\Test 1\Test 1\Test 1\bin\Debug\net8.0\Test 1.dll
+D:\Studying\Centennial\CODING\COMP100\Test 1\Test 1\Test 1\bin\Debug\net8.0\Test 1.pdb
+D:\Studying\Centennial\CODING\COMP100\Test 1\Test 1\Test 1\obj\Debug\net8.0\Test 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studying\Centennial\CODING\COMP100\Test 1\Test 1\Test 1\obj\Debug\net8.0\Test 1.AssemblyInfoInputs.cache
+D:\Studying\Centennial\CODING\COMP100\Test 1\Test 1\Test 1\obj\Debug\net8.0\Test 1.AssemblyInfo.cs
+D:\Studying\Centennial\CODING\COMP100\Test 1\Test 1\Test 1\obj\Debug\net8.0\Test 1.csproj.CoreCompileInputs.cache
+D:\Studying\Centennial\CODING\COMP100\Test 1\Test 1\Test 1\obj\Debug\net8.0\Test 1.sourcelink.json
+D:\Studying\Centennial\CODING\COMP100\Test 1\Test 1\Test 1\obj\Debug\net8.0\Test 1.dll
+D:\Studying\Centennial\CODING\COMP100\Test 1\Test 1\Test 1\obj\Debug\net8.0\refint\Test 1.dll
+D:\Studying\Centennial\CODING\COMP100\Test 1\Test 1\Test 1\obj\Debug\net8.0\Test 1.pdb
+D:\Studying\Centennial\CODING\COMP100\Test 1\Test 1\Test 1\obj\Debug\net8.0\Test 1.genruntimeconfig.cache
+D:\Studying\Centennial\CODING\COMP100\Test 1\Test 1\Test 1\obj\Debug\net8.0\ref\Test 1.dll
