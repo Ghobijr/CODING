@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Assignment 3 </title>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="assignment3.css">
+</head>
+
+<body>
+    <header>
+        <img src="images/Centenniallogo.jpg" alt="Centennial College Logo" height="93" width="289">
+    </header>
+
+    <main>
+        <h1>Instructor Evaluation Form</h1>
+        <p>Please read each statement carefully and consider each one individually. Use the <span class="bold">form
+                options</span> to make your choice</p>
+
+        <form>
+            <fieldset>
+                <legend class="bold"> Course Information </legend>
+                <label for="courseName" class="block">Course Name & Code</label>
+                <input type="text" name="courseName" id="courseName">
+
+                <p>Semester</p>
+                <input type="radio" name="semester" id="winter" value="Winter">
+                <label for="winter"> Winter</label>
+                
+                <input type="radio" name="semester" id="springSummer" value="Springsummer">
+                <label for="springSummer"> Spring/Summer</label>
+             
+                <input type="radio" name="semester" id="fall" value="Fall">
+                <label for="fall"> Fall</label><br><br>
+             
+
+                <label for="courseYear" class="block"> Course Year</label>
+                <input type="text" name="courseYear" id="courseYear"><br><br>
+
+
+                <label for="instructorName" class="block"> Instructor's Name</label>
+                <input type="text" name="instructorName" id="instructorName">
+            </fieldset>
+
+            <fieldset>
+                <legend class="bold">Student Feedback</legend>
+                <label for="instructorTeaching" class="block"> How effective was the instructors teaching?</label>
+                <select name="instructorTeaching" id="instructorTeaching">
+                    <option value="excellent">Excellent</option>
+                    <option value="good">Good</option>
+                    <option value="fair">Fair</option>
+                    <option value="not satisfactory">Not Satisfactory</option>
+                </select><br><br>
+
+                <label for="courseMaterialInput" class="block"> How helpful was the course materials?</label>
+                <input list="courseMaterial" name="courseMaterialInput" id="courseMaterialInput">
+                <datalist id="courseMaterial">
+                    <option value="Very Helpful"></option>
+                    <option value="Helpful"></option>
+                    <option value="Unhelpful"></option>
+                    <option value="Very Unhelpful"></option>
+                </datalist><br><br>
+
+                <label for="otherComments" class="block"> Do you have any other comments?</label>
+                <textarea name="otherComments" id="otherComments" cols="50" rows="4"></textarea>
+            </fieldset>
+
+            <fieldset>
+                <legend class="bold">Form Submission</legend>
+                <input type="submit" value="Submit">
+                <input type="reset" value="Reset">
+            </fieldset>
+        </form>
+    </main>
+    <footer>
+        <span class="block">Thank you! We pay attention to your feedback!</span>
+        <span class="block">Web: <a href="https://www.centennialcollege.ca/">www.centennialcollege.ca</a></span>
+        <span class="block">Email: <a href="mailto:feedback@centennialcollege.ca">feedback@centennialcollege.ca</a></span>
+    </footer>
+</body>
+
+</html>

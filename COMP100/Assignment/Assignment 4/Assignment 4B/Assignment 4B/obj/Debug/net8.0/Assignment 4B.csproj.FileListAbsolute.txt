@@ -1,0 +1,15 @@
+D:\Studying\Centennial\CODING\COMP100\Assignment\Assignment 4\Assignment 4B\Assignment 4B\bin\Debug\net8.0\Assignment 4B.exe
+D:\Studying\Centennial\CODING\COMP100\Assignment\Assignment 4\Assignment 4B\Assignment 4B\bin\Debug\net8.0\Assignment 4B.deps.json
+D:\Studying\Centennial\CODING\COMP100\Assignment\Assignment 4\Assignment 4B\Assignment 4B\bin\Debug\net8.0\Assignment 4B.runtimeconfig.json
+D:\Studying\Centennial\CODING\COMP100\Assignment\Assignment 4\Assignment 4B\Assignment 4B\bin\Debug\net8.0\Assignment 4B.dll
+D:\Studying\Centennial\CODING\COMP100\Assignment\Assignment 4\Assignment 4B\Assignment 4B\bin\Debug\net8.0\Assignment 4B.pdb
+D:\Studying\Centennial\CODING\COMP100\Assignment\Assignment 4\Assignment 4B\Assignment 4B\obj\Debug\net8.0\Assignment 4B.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studying\Centennial\CODING\COMP100\Assignment\Assignment 4\Assignment 4B\Assignment 4B\obj\Debug\net8.0\Assignment 4B.AssemblyInfoInputs.cache
+D:\Studying\Centennial\CODING\COMP100\Assignment\Assignment 4\Assignment 4B\Assignment 4B\obj\Debug\net8.0\Assignment 4B.AssemblyInfo.cs
+D:\Studying\Centennial\CODING\COMP100\Assignment\Assignment 4\Assignment 4B\Assignment 4B\obj\Debug\net8.0\Assignment 4B.csproj.CoreCompileInputs.cache
+D:\Studying\Centennial\CODING\COMP100\Assignment\Assignment 4\Assignment 4B\Assignment 4B\obj\Debug\net8.0\Assignment 4B.sourcelink.json
+D:\Studying\Centennial\CODING\COMP100\Assignment\Assignment 4\Assignment 4B\Assignment 4B\obj\Debug\net8.0\Assignment 4B.dll
+D:\Studying\Centennial\CODING\COMP100\Assignment\Assignment 4\Assignment 4B\Assignment 4B\obj\Debug\net8.0\refint\Assignment 4B.dll
+D:\Studying\Centennial\CODING\COMP100\Assignment\Assignment 4\Assignment 4B\Assignment 4B\obj\Debug\net8.0\Assignment 4B.pdb
+D:\Studying\Centennial\CODING\COMP100\Assignment\Assignment 4\Assignment 4B\Assignment 4B\obj\Debug\net8.0\Assignment 4B.genruntimeconfig.cache
+D:\Studying\Centennial\CODING\COMP100\Assignment\Assignment 4\Assignment 4B\Assignment 4B\obj\Debug\net8.0\ref\Assignment 4B.dll

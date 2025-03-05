@@ -45,15 +45,16 @@
 
 
 #Example 1
-temp = int(input("Enter the temperature: "))
-if temp < 98:
-    print("Thats Cold")
-elif temp > 98:
-    print("Thats Hot")
-else:
-    print("Thats Normal")
+# temp = int(input("Enter the temperature: "))
+# if temp < 98:
+#     print("Thats Cold")
+# elif temp > 98:
+#     print("Thats Hot")
+# else:
+#     print("Thats Normal")
 
-#Example 2
-agiles_values = ["Individuals and interactions', 'Working software','Customer collaboration','Responding to change'"]
-for agiles_value in agiles_values:
-    print(agiles_value)
+# #Example 2
+# agiles_values = ["Individuals and interactions', 'Working software','Customer collaboration','Responding to change'"]
+# for agiles_value in agiles_values:
+#     print(agiles_value)
+

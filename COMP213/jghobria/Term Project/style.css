@@ -1,0 +1,33 @@
+header{
+    
+}
+
+nav {
+    position: sticky;
+    top: 0;
+    background-color: #333; /* Optional: Background color for the nav */
+    z-index: 1000; /* Ensures the nav stays on top of other content */
+}
+
+nav ol {
+    display: flex;
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+    justify-content: space-around; /* Distributes the items evenly */
+}
+
+nav li {
+    margin: 0;
+}
+
+nav a {
+    color: white; /* Text color */
+    text-decoration: none;
+    padding: 10px 20px;
+    display: block;
+}
+
+nav a:hover {
+    background-color: #575757; /* Optional: Adds a hover effect */
+}

@@ -1,0 +1,25 @@
+caption {
+    border: solid black;
+    border-width: 1px;
+    background-color: #1491F0;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+
+th,td {
+    border: solid black;
+    border-width: 1px;
+    padding: 10px;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+th {
+    background-color: #7EC7FF;
+}
+
+tbody tr:nth-of-type(even) {
+    background-color: #E3F3FF;
+}

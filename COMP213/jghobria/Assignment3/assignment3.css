@@ -1,0 +1,53 @@
+* {
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+header,
+main,
+footer {
+    width: 80%;
+    margin: auto;
+}
+
+h1 {
+  text-align: center;
+}
+
+header {
+    background-color: #464648;
+}
+
+header img {
+    display: block;
+}
+
+main,
+footer {
+    background-color: #FFFFFF;
+    padding: 1em;
+}
+
+body {
+    background: linear-gradient(to bottom, #00cc66, #ffffff);
+}
+
+fieldset{
+    border: 1px solid #000;
+    padding: 1em;
+    margin: 1em;
+}
+
+select{
+    padding: .3em;
+}    
+
+
+.block {
+    display: block;
+}
+
+.bold {
+    font-weight: bold;
+}
+

@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Studying\\Centennial\\CODING\\COMP100\\Practice\\While For\\WhileFor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{92929CD3-8ABD-4479-82FC-D6F5E08D28BC}|WhileFor\\WhileFor.csproj|d:\\studying\\centennial\\coding\\comp100\\practice\\while for\\whilefor\\whilefor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92929CD3-8ABD-4479-82FC-D6F5E08D28BC}|WhileFor\\WhileFor.csproj|solutionrelative:whilefor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Studying\\Centennial\\CODING\\COMP100\\Practice\\While For\\WhileFor\\WhileFor\\Program.cs",
+              "RelativeDocumentMoniker": "WhileFor\\Program.cs",
+              "ToolTip": "D:\\Studying\\Centennial\\CODING\\COMP100\\Practice\\While For\\WhileFor\\WhileFor\\Program.cs",
+              "RelativeToolTip": "WhileFor\\Program.cs",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAswLcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T03:14:54.474Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

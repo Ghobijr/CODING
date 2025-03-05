@@ -1,0 +1,15 @@
+D:\Studying\Centennial\CODING\COMP100\Practice\While For\WhileFor\WhileFor\bin\Debug\net8.0\WhileFor.exe
+D:\Studying\Centennial\CODING\COMP100\Practice\While For\WhileFor\WhileFor\bin\Debug\net8.0\WhileFor.deps.json
+D:\Studying\Centennial\CODING\COMP100\Practice\While For\WhileFor\WhileFor\bin\Debug\net8.0\WhileFor.runtimeconfig.json
+D:\Studying\Centennial\CODING\COMP100\Practice\While For\WhileFor\WhileFor\bin\Debug\net8.0\WhileFor.dll
+D:\Studying\Centennial\CODING\COMP100\Practice\While For\WhileFor\WhileFor\bin\Debug\net8.0\WhileFor.pdb
+D:\Studying\Centennial\CODING\COMP100\Practice\While For\WhileFor\WhileFor\obj\Debug\net8.0\WhileFor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studying\Centennial\CODING\COMP100\Practice\While For\WhileFor\WhileFor\obj\Debug\net8.0\WhileFor.AssemblyInfoInputs.cache
+D:\Studying\Centennial\CODING\COMP100\Practice\While For\WhileFor\WhileFor\obj\Debug\net8.0\WhileFor.AssemblyInfo.cs
+D:\Studying\Centennial\CODING\COMP100\Practice\While For\WhileFor\WhileFor\obj\Debug\net8.0\WhileFor.csproj.CoreCompileInputs.cache
+D:\Studying\Centennial\CODING\COMP100\Practice\While For\WhileFor\WhileFor\obj\Debug\net8.0\WhileFor.sourcelink.json
+D:\Studying\Centennial\CODING\COMP100\Practice\While For\WhileFor\WhileFor\obj\Debug\net8.0\WhileFor.dll
+D:\Studying\Centennial\CODING\COMP100\Practice\While For\WhileFor\WhileFor\obj\Debug\net8.0\refint\WhileFor.dll
+D:\Studying\Centennial\CODING\COMP100\Practice\While For\WhileFor\WhileFor\obj\Debug\net8.0\WhileFor.pdb
+D:\Studying\Centennial\CODING\COMP100\Practice\While For\WhileFor\WhileFor\obj\Debug\net8.0\WhileFor.genruntimeconfig.cache
+D:\Studying\Centennial\CODING\COMP100\Practice\While For\WhileFor\WhileFor\obj\Debug\net8.0\ref\WhileFor.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Studying\\Centennial\\CODING\\COMP100\\VS\\Practice\\Comp100 Practice\\Comp100 Practice\\Comp100 Practice.csproj": {}
+    "D:\\Studying\\Centennial\\CODING\\COMP100\\Comp100 VS Practice\\Comp100 Practice\\Comp100 Practice.csproj": {}
   },
   "projects": {
-    "D:\\Studying\\Centennial\\CODING\\COMP100\\VS\\Practice\\Comp100 Practice\\Comp100 Practice\\Comp100 Practice.csproj": {
+    "D:\\Studying\\Centennial\\CODING\\COMP100\\Comp100 VS Practice\\Comp100 Practice\\Comp100 Practice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Studying\\Centennial\\CODING\\COMP100\\VS\\Practice\\Comp100 Practice\\Comp100 Practice\\Comp100 Practice.csproj",
+        "projectUniqueName": "D:\\Studying\\Centennial\\CODING\\COMP100\\Comp100 VS Practice\\Comp100 Practice\\Comp100 Practice.csproj",
         "projectName": "Comp100 Practice",
-        "projectPath": "D:\\Studying\\Centennial\\CODING\\COMP100\\VS\\Practice\\Comp100 Practice\\Comp100 Practice\\Comp100 Practice.csproj",
+        "projectPath": "D:\\Studying\\Centennial\\CODING\\COMP100\\Comp100 VS Practice\\Comp100 Practice\\Comp100 Practice.csproj",
         "packagesPath": "C:\\Users\\joe_g\\.nuget\\packages\\",
-        "outputPath": "D:\\Studying\\Centennial\\CODING\\COMP100\\VS\\Practice\\Comp100 Practice\\Comp100 Practice\\obj\\",
+        "outputPath": "D:\\Studying\\Centennial\\CODING\\COMP100\\Comp100 VS Practice\\Comp100 Practice\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -66,7 +66,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.103/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

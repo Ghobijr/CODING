@@ -1,0 +1,15 @@
+D:\Studying\Centennial\CODING\COMP100\Practice\Constants\Constants\Constants\bin\Debug\net8.0\Constants.exe
+D:\Studying\Centennial\CODING\COMP100\Practice\Constants\Constants\Constants\bin\Debug\net8.0\Constants.deps.json
+D:\Studying\Centennial\CODING\COMP100\Practice\Constants\Constants\Constants\bin\Debug\net8.0\Constants.runtimeconfig.json
+D:\Studying\Centennial\CODING\COMP100\Practice\Constants\Constants\Constants\bin\Debug\net8.0\Constants.dll
+D:\Studying\Centennial\CODING\COMP100\Practice\Constants\Constants\Constants\bin\Debug\net8.0\Constants.pdb
+D:\Studying\Centennial\CODING\COMP100\Practice\Constants\Constants\Constants\obj\Debug\net8.0\Constants.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studying\Centennial\CODING\COMP100\Practice\Constants\Constants\Constants\obj\Debug\net8.0\Constants.AssemblyInfoInputs.cache
+D:\Studying\Centennial\CODING\COMP100\Practice\Constants\Constants\Constants\obj\Debug\net8.0\Constants.AssemblyInfo.cs
+D:\Studying\Centennial\CODING\COMP100\Practice\Constants\Constants\Constants\obj\Debug\net8.0\Constants.csproj.CoreCompileInputs.cache
+D:\Studying\Centennial\CODING\COMP100\Practice\Constants\Constants\Constants\obj\Debug\net8.0\Constants.sourcelink.json
+D:\Studying\Centennial\CODING\COMP100\Practice\Constants\Constants\Constants\obj\Debug\net8.0\Constants.dll
+D:\Studying\Centennial\CODING\COMP100\Practice\Constants\Constants\Constants\obj\Debug\net8.0\refint\Constants.dll
+D:\Studying\Centennial\CODING\COMP100\Practice\Constants\Constants\Constants\obj\Debug\net8.0\Constants.pdb
+D:\Studying\Centennial\CODING\COMP100\Practice\Constants\Constants\Constants\obj\Debug\net8.0\Constants.genruntimeconfig.cache
+D:\Studying\Centennial\CODING\COMP100\Practice\Constants\Constants\Constants\obj\Debug\net8.0\ref\Constants.dll

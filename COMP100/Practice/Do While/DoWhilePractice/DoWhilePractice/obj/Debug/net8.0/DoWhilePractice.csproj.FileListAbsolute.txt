@@ -1,0 +1,15 @@
+D:\Studying\Centennial\CODING\COMP100\Practice\Do While\DoWhilePractice\DoWhilePractice\bin\Debug\net8.0\DoWhilePractice.exe
+D:\Studying\Centennial\CODING\COMP100\Practice\Do While\DoWhilePractice\DoWhilePractice\bin\Debug\net8.0\DoWhilePractice.deps.json
+D:\Studying\Centennial\CODING\COMP100\Practice\Do While\DoWhilePractice\DoWhilePractice\bin\Debug\net8.0\DoWhilePractice.runtimeconfig.json
+D:\Studying\Centennial\CODING\COMP100\Practice\Do While\DoWhilePractice\DoWhilePractice\bin\Debug\net8.0\DoWhilePractice.dll
+D:\Studying\Centennial\CODING\COMP100\Practice\Do While\DoWhilePractice\DoWhilePractice\bin\Debug\net8.0\DoWhilePractice.pdb
+D:\Studying\Centennial\CODING\COMP100\Practice\Do While\DoWhilePractice\DoWhilePractice\obj\Debug\net8.0\DoWhilePractice.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studying\Centennial\CODING\COMP100\Practice\Do While\DoWhilePractice\DoWhilePractice\obj\Debug\net8.0\DoWhilePractice.AssemblyInfoInputs.cache
+D:\Studying\Centennial\CODING\COMP100\Practice\Do While\DoWhilePractice\DoWhilePractice\obj\Debug\net8.0\DoWhilePractice.AssemblyInfo.cs
+D:\Studying\Centennial\CODING\COMP100\Practice\Do While\DoWhilePractice\DoWhilePractice\obj\Debug\net8.0\DoWhilePractice.csproj.CoreCompileInputs.cache
+D:\Studying\Centennial\CODING\COMP100\Practice\Do While\DoWhilePractice\DoWhilePractice\obj\Debug\net8.0\DoWhilePractice.sourcelink.json
+D:\Studying\Centennial\CODING\COMP100\Practice\Do While\DoWhilePractice\DoWhilePractice\obj\Debug\net8.0\DoWhilePractice.dll
+D:\Studying\Centennial\CODING\COMP100\Practice\Do While\DoWhilePractice\DoWhilePractice\obj\Debug\net8.0\refint\DoWhilePractice.dll
+D:\Studying\Centennial\CODING\COMP100\Practice\Do While\DoWhilePractice\DoWhilePractice\obj\Debug\net8.0\DoWhilePractice.pdb
+D:\Studying\Centennial\CODING\COMP100\Practice\Do While\DoWhilePractice\DoWhilePractice\obj\Debug\net8.0\DoWhilePractice.genruntimeconfig.cache
+D:\Studying\Centennial\CODING\COMP100\Practice\Do While\DoWhilePractice\DoWhilePractice\obj\Debug\net8.0\ref\DoWhilePractice.dll
