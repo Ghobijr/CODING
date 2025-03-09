@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Conditions&Loops")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cd8157110de8521dbb56ebb987d9088d044133c8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a53d3597869b13c7174242b5870b5d88b520e9d3")]
 [assembly: System.Reflection.AssemblyProductAttribute("Conditions&Loops")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Conditions&Loops")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -2,14 +2,11 @@
   "ExpandedNodes": [
     "",
     "\\Assignment",
-    "\\Assignment\\Assignment 5",
-    "\\Assignment\\Assignment 5\\Assignment5",
-    "\\Assignment\\Assignment 5\\Assignment5\\Assignment5",
     "\\Practice",
-    "\\Practice\\Constants",
     "\\Practice\\Constants\\Constants",
-    "\\Practice\\Constants\\Constants\\Constants"
+    "\\Practice\\Constants\\Constants\\Constants",
+    "\\Practice\\Format Specifier"
   ],
-  "SelectedNode": "\\Assignment\\Assignment 5\\Assignment5\\Assignment5\\Program.cs",
+  "SelectedNode": "\\Practice\\Format Specifier",
   "PreviewInSolutionExplorer": false
 }

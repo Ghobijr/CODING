@@ -1,0 +1,15 @@
+D:\Studying\Centennial\CODING\COMP100\Practice\Conditions & Loops\FormatSpecifier\FormatSpecifier\bin\Debug\net8.0\FormatSpecifier.exe
+D:\Studying\Centennial\CODING\COMP100\Practice\Conditions & Loops\FormatSpecifier\FormatSpecifier\bin\Debug\net8.0\FormatSpecifier.deps.json
+D:\Studying\Centennial\CODING\COMP100\Practice\Conditions & Loops\FormatSpecifier\FormatSpecifier\bin\Debug\net8.0\FormatSpecifier.runtimeconfig.json
+D:\Studying\Centennial\CODING\COMP100\Practice\Conditions & Loops\FormatSpecifier\FormatSpecifier\bin\Debug\net8.0\FormatSpecifier.dll
+D:\Studying\Centennial\CODING\COMP100\Practice\Conditions & Loops\FormatSpecifier\FormatSpecifier\bin\Debug\net8.0\FormatSpecifier.pdb
+D:\Studying\Centennial\CODING\COMP100\Practice\Conditions & Loops\FormatSpecifier\FormatSpecifier\obj\Debug\net8.0\FormatSpecifier.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studying\Centennial\CODING\COMP100\Practice\Conditions & Loops\FormatSpecifier\FormatSpecifier\obj\Debug\net8.0\FormatSpecifier.AssemblyInfoInputs.cache
+D:\Studying\Centennial\CODING\COMP100\Practice\Conditions & Loops\FormatSpecifier\FormatSpecifier\obj\Debug\net8.0\FormatSpecifier.AssemblyInfo.cs
+D:\Studying\Centennial\CODING\COMP100\Practice\Conditions & Loops\FormatSpecifier\FormatSpecifier\obj\Debug\net8.0\FormatSpecifier.csproj.CoreCompileInputs.cache
+D:\Studying\Centennial\CODING\COMP100\Practice\Conditions & Loops\FormatSpecifier\FormatSpecifier\obj\Debug\net8.0\FormatSpecifier.sourcelink.json
+D:\Studying\Centennial\CODING\COMP100\Practice\Conditions & Loops\FormatSpecifier\FormatSpecifier\obj\Debug\net8.0\FormatSpecifier.dll
+D:\Studying\Centennial\CODING\COMP100\Practice\Conditions & Loops\FormatSpecifier\FormatSpecifier\obj\Debug\net8.0\refint\FormatSpecifier.dll
+D:\Studying\Centennial\CODING\COMP100\Practice\Conditions & Loops\FormatSpecifier\FormatSpecifier\obj\Debug\net8.0\FormatSpecifier.pdb
+D:\Studying\Centennial\CODING\COMP100\Practice\Conditions & Loops\FormatSpecifier\FormatSpecifier\obj\Debug\net8.0\FormatSpecifier.genruntimeconfig.cache
+D:\Studying\Centennial\CODING\COMP100\Practice\Conditions & Loops\FormatSpecifier\FormatSpecifier\obj\Debug\net8.0\ref\FormatSpecifier.dll

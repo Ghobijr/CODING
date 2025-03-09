@@ -233,6 +233,78 @@ internal class Program
         //Console.WriteLine($"Your average is {avg:F2}");
 
 
+
+        //In class practice
+        //double sum = 0;
+        //double myNum;
+        //double average = 0;
+        //int counter = 0;
+
+        //string userAnswer;
+        //do
+        //{
+        //    Console.Write("Please enter a number: ");
+        //    myNum = Convert.ToDouble(Console.ReadLine());
+        //    sum += myNum;
+        //    counter++;
+        //    Console.Write("Do you want to add any new number? (y/n) ");
+        //    userAnswer = Console.ReadLine();
+        //} while (userAnswer.ToLower() == "y");
+        //Console.WriteLine($"The sum is equal to {sum}");
+        //average = sum / counter;
+        //Console.WriteLine($"The average is equal to {average}");
+        //Console.ReadKey();
+
+
+        //int num;
+        //double sum = 0;
+        //int counter = 0;
+        //double avg;
+        //string userReply = "yes";
+
+        //while (userReply.ToLower() == "yes")
+        //{
+        //    Console.Write("Please enter a number: ");
+        //    num = Convert.ToInt32(Console.ReadLine());
+        //    // Add it to the sum
+        //    // Add it to the sum
+        //    sum += num;
+        //    counter++;
+        //    //Ask do you want to continue
+        //    Console.Write("Do you want to continue? (yes/no) ");
+        //    userReply = Console.ReadLine();
+        //}
+
+        //Console.WriteLine("After the loop");
+        ////Print the sum
+        //Console.WriteLine($"The sum is {sum}");
+        //avg = sum / counter;
+        //Console.WriteLine($"The average is {avg}");
+        //Console.ReadKey();
+
+        //int num;
+        //double sum = 0;
+        //int counter = 0;
+        //double avg;
+        //string userReply = "yes";
+
+        //for (; ; )
+        //{
+        //    Console.Write("Please enter a number: ");
+        //    num = Convert.ToInt32(Console.ReadLine());
+        //    // Add it to the sum
+        //    sum = sum + num;
+        //    counter++;
+        //    //Ask do you want to continue
+        //    Console.Write("Do you want to continue? (yes/no) ");
+        //    userReply = Console.ReadLine();
+        //    if (userReply == "yes") 
+        //    {
+        //        break;
+        //}
+
+
+
     }
 }
 

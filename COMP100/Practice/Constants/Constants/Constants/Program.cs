@@ -609,14 +609,14 @@ using static System.Runtime.InteropServices.JavaScript.JSType;
 
 
 
-int i = 0;
+//int i = 0;
 
-while (i < 10)
+//while (i < 10)
 
-{
-    Console.WriteLine($"Now i is {i}");
-    i++;
-}
-Console.WriteLine("########################");
+//{
+//    Console.WriteLine($"Now i is {i}");
+//    i++;
+//}
+//Console.WriteLine("########################");
 
-Console.ReadKey();
+//Console.ReadKey();
