@@ -20,9 +20,8 @@
 #         print(f"  {medal_type}: {count}")
 #     print()  # Empty line for better readability
 
-# # Question 1.2: Create a list and display results
+# Question 1.2: Create a list and display results
 
-# # List of lists implementation
 # medals_list = [
 #     ["Nation", "Gold", "Silver", "Bronze"],
 #     ["Canada", 2, 0, 2],
@@ -32,7 +31,7 @@
 #     ["Germany", 1, 0, 0]
 # ]
 
-# print("\n2. List Implementation:\n")
+# print("\nList Implementation:\n")
 # # Display the list data in a formatted way
 # for row in medals_list:
 #     if row[0] == "Nation":  # Header row
@@ -40,28 +39,6 @@
 #         print("-" * 30)  # Separator line
 #     else:  # Data rows
 #         print(f"{row[0]:<10} {row[1]:<6} {row[2]:<6} {row[3]:<6}")
-
-# # Question 1.3: Understanding the difference between list and dictionary
-
-# print("\n3. Differences between Lists and Dictionaries:\n")
-# print("Lists:")
-# print("- Ordered collection of items")
-# print("- Accessed by index (position)")
-# print("- Good for sequential data")
-# print("- Uses square brackets: my_list[0]")
-# print("- Mutable (can be changed)")
-# print("- Better for iteration in sequence")
-# print("- Example use: When order matters, like steps in a process")
-# print("")
-# print("Dictionaries:")
-# print("- Key-value pairs")
-# print("- Accessed by key, not position")
-# print("- Good for labeled data")
-# print("- Uses curly braces: my_dict['key']")
-# print("- Mutable (can be changed)")
-# print("- Better for looking up values by name")
-# print("- Example use: When you need to associate values with labels")
-
 
 # Question 2
 
@@ -85,7 +62,7 @@
 
 # passing_yards = defaultdict(int)
 
-# # 1. Open the csv file called "nfl_offensive_stats.csv" and read in the csv data from the file
+# # Open the csv file called "nfl_offensive_stats.csv" and read in the csv data from the file
 # with open(file_path, mode='r') as file:
 #     reader = csv.reader(file)
 #     next(reader)  # Skip the header row
@@ -96,7 +73,7 @@
 #         if position == "QB":
 #             passing_yards[player] += yards
 
-# # 4. Print the sum of the passing yards sorted by sum of passing yards in descending order
+# # Print the sum of the passing yards sorted by sum of passing yards in descending order
 # sorted_passing_yards = sorted(passing_yards.items(), key=lambda x: x[1], reverse=True)
 
 # print("Sum of passing yards for each QB (sorted by passing yards in descending order):")

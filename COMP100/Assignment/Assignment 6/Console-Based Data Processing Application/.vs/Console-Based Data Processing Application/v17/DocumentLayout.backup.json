@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Studying\\Centennial\\CODING\\COMP100\\Assignment\\Assignment 6\\Console-Based Data Processing Application\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{27C0B447-F46F-4CE4-8AF3-743137F61BFE}|Console-Based Data Processing Application\\Console-Based Data Processing Application.csproj|d:\\studying\\centennial\\coding\\comp100\\assignment\\assignment 6\\console-based data processing application\\console-based data processing application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27C0B447-F46F-4CE4-8AF3-743137F61BFE}|Console-Based Data Processing Application\\Console-Based Data Processing Application.csproj|solutionrelative:console-based data processing application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Studying\\Centennial\\CODING\\COMP100\\Assignment\\Assignment 6\\Console-Based Data Processing Application\\Console-Based Data Processing Application\\Program.cs",
+              "RelativeDocumentMoniker": "Console-Based Data Processing Application\\Program.cs",
+              "ToolTip": "D:\\Studying\\Centennial\\CODING\\COMP100\\Assignment\\Assignment 6\\Console-Based Data Processing Application\\Console-Based Data Processing Application\\Program.cs*",
+              "RelativeToolTip": "Console-Based Data Processing Application\\Program.cs*",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAgwKcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T23:09:21.842Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
