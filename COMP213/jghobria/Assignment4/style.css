@@ -5,24 +5,21 @@
     padding: 0;
 }
 
-head,
-nav,
-main,
-aside,
-footer {
-    background-color: #ffffff;
+header,nav,main,aside,footer {
+    background-color: #ffffff; 
+    border: 1px solid black
 }
 
 body {
     background-color: #3b3b3b;
     min-width: 500px;
-    display: block;
 }
 
 header {
     display: flex;
     align-items: center;
     gap: 1em;
+
 }
 
 nav ol {
@@ -32,12 +29,12 @@ nav ol {
 
 nav ol li {
     background-color: grey;
-    padding: 10px 0;
-    border-bottom: 2px solid black; /* potentially might to remove*/
+    padding: 10px ;
+    border-bottom: 2px solid black;  
 }
 
 nav li:first-child {
-    border-top: 1px solid black; /* potentially might need to remove*/
+    border-top: 1px solid black; 
 }
 
 main {
@@ -65,44 +62,49 @@ footer {
     body{
         display: grid;
         grid-template-columns: 1fr 1fr;
+        grid-template-rows: auto;
         grid-template-areas:
         "header header"
         "nav nav"
         "main aside"
         "footer footer";
     }
-}
 
-header {grid-area: header;}
-nav {grid-area: nav;}
-main {grid-area: main;}
-aside {grid-area: aside;}
-footer {grid-area: footer;}
 
-nav ol {
-    display: flex;
-    justify-content: space-around;
-}
+    header {grid-area: header;}
+    nav {grid-area: nav;}
+    main {grid-area: main;}
+    aside {grid-area: aside;}
+    footer {grid-area: footer;}
 
-nav ol li {
-    border-bottom: none;
-}
+    nav ol {
+        display: flex;
+        justify-content: center;
+    }
 
-aside{
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-}
+    nav ol li {
+        border-bottom: none;
+    }
 
-aside img{
-    width: 200px;
+
+    aside img{
+        width: 200px;
+    }
+
+    aside{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        }   
 }
 
 /* Desktop View*/
 @media (min-width: 1024px){
     body{
+        display: grid;
         grid-template-columns: 150px 2fr 1fr;
+        grid-template-rows: auto;
         grid-template-areas:
         "header header header"
         "nav main aside"
@@ -110,17 +112,19 @@ aside img{
         width: 80%;
         margin: auto;
     }
-}
 
-aside img{
-    width: 300px;
-}
+    aside img{
+        width: 300px;
+    }
 
+    nav ol {
+        display: block;
+    }
 
-nav ol li {
-    display: block;
-}
+    nav ol li {
+        display: block;
+    }
 
-nav ol {
-    display: block;
+    
+  
 }

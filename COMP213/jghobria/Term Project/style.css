@@ -1,46 +1,212 @@
-* {
-    box-sizing: border-box;
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+    
+}
+
+header {
+    background-color: #4CAF50; /* Green color scheme */
+    padding: 20px;
+    text-align: center;
+}
+
+header img {
+    max-width: 100%;
+    height: auto;
 }
 
 nav {
-    position: sticky;
-    top: 0;
-    background-color: #333; /* Optional: Background color for the nav */
-    z-index: 1000; /* Ensures the nav stays on top of other content */
+    background-color: #333;
+    color: #fff;
+    padding: 10px 0;
 }
 
-nav ol {
-    display: flex;
-    padding: 0;
-    margin: 0;
+nav ul {
     list-style-type: none;
-    justify-content: space-around; /* Distributes the items evenly */
+    padding: 0;
+    text-align: center;
 }
 
-nav li {
-    margin: 0;
+nav ul li {
+    display: inline;
+    margin: 0 15px;
 }
 
-nav a {
-    color: white; /* Text color */
+nav ul li a {
+    color: #fff;
     text-decoration: none;
-    padding: 10px 20px;
+}
+
+nav li a:hover {
+    text-decoration: underline;
+}
+
+main {
+    padding: 20px;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+h1, h2, h3 {
+    color: #4CAF50;
+}
+
+
+aside {
+    background-color: #f4f4f4;
+    padding: 20px;
+    margin: 20px 0;
+    text-align: center;
+}
+
+aside img {
+    max-width: 50%;
+    height: auto;
+    border-radius: 10%;
+}
+
+footer {
+    background-color: #4CAF50;
+    color: #fff;
+    text-align: center;
+    padding: 1px 0;
+    position: static;
+    width: 100%;
+    bottom: 0;
+}
+
+textarea {
+    width: 100%;  /* Make textarea take up 100% of its container width */
+    padding: 10px;
+    box-sizing: border-box; /* Ensure padding does not affect width */
+    resize: vertical; /* Allow vertical resizing but prevent horizontal resizing */
+}
+
+table {
+    border-collapse: collapse; /* Removes extra space between table cells */
+    width: 100%; /* Ensures the table takes up the full width */
+}
+
+table, th, td {
+    border: 1px solid black; /* Adds borders to the table and cells */
+}
+
+.block {
     display: block;
 }
 
-nav a:hover {
-    background-color: #575757; /* Optional: Adds a hover effect */
+.bold {
+    font-weight: bold;
 }
 
-table{
-    border:"1";
+
+/* Tablet */
+@media (max-width: 768px) {
+    nav ul li {
+        display: block;
+        margin: 10px 0;
+    }
+
+    footer {
+        padding: 1px 0; 
+        position: static; 
+    }
+
+    textarea {
+        width: 100%;  /* Ensures the textarea takes the full width on tablets */
+    }
+
+    table {
+        border-collapse: collapse; /* Removes extra space between table cells */
+        width: 100%; /* Ensures the table takes up the full width */
+    }
+    
+    table, th, td {
+        border: 1px solid black; /* Adds borders to the table and cells */
+    }
+
+    footer {
+        padding: 1px 0; 
+        position: static; 
+    }
+
+    main img{
+        display: block;
+        margin: 0 auto;
+    }
+
+    .gymselector h2 {
+        text-align: center;
+    }
+    
+    .goodlifegs a {
+        display: block;       
+        text-align: center;    
+        margin: 0 auto;       
+        text-decoration: none; 
+    }
+    
+    .lags a{
+        display: block;        
+        text-align: center;    
+        margin: 0 auto;        
+        text-decoration: none; 
+    }
+    .ltgs a {
+        display: block;        /* Makes the link a block element */
+        text-align: center;    /* Centers the text */
+        margin: 0 auto;        /* Centers the link horizontally */
+        text-decoration: none; /* Optional: Remove underline */
+    }
 }
 
-fieldset {
-    border: 2px solid #333;
-    padding: 20px;
-    max-width: 500px;
-    display: flex;
-    flex-direction: column;
-    gap: 10px; /* Adds spacing between elements */
+
+/* Mobile */
+@media (max-width: 414px) {
+    header img {
+        width: 100%;
+    }
+
+    nav ul li {
+        display: block;
+        margin: 5px 0;
+    }
+
+    main li{
+        list-style-type: none;
+    }
+
+
+    main {
+        padding: 10px;
+        text-align: center;
+    }
+
+    aside img {
+            max-width: 70%; /* Adjust for small screens */
+    }
+
+    table {
+        border-collapse: collapse; /* Removes extra space between table cells */
+        width: 100%; /* Ensures the table takes up the full width */
+    }
+    
+    table, th, td {
+        border: 1px solid black; /* Adds borders to the table and cells */
+    }
+    
+    td, th {
+        padding: 8px; /* Adds padding inside cells */
+    }
+    
+    
+    footer {
+        padding: 1px 0; 
+        position: static; 
+    }
+    
 }

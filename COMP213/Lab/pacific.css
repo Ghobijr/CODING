@@ -74,3 +74,23 @@ input,textarea {
 #contact {
     font-size:90%;
 }
+
+#desktop{
+    display:inline;
+}
+
+#mobile{
+    display:none;
+}
+
+@media only screen and (max-width:1024pm) {
+ body{
+    margin: 0px;
+    background-color: #FFFFFF;
+ }
+
+ #wrapper {
+    min-width:0px;
+    width: auto;
+ }
+}

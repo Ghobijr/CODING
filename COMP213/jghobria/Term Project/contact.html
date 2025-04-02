@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-    <title>Term Project</title>
+    <title>Contact Us</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="style.css">
@@ -10,22 +10,21 @@
 
 <body>
     <header>
-        <img src="gymselector.jpg" alt="Gym banner" id="gym banner" height="100" width="120">
+        <img src="Images/fitnessbanner.jpg" alt="Gym banner" id="gym banner" height="180" width="250">
     </header>
     <nav>
-        <ol>
+        <ul>
             <li> <a href="homep.html">Home</a></li>
             <li> <a href="gymselector.html">Gym Selection</a></li>
             <li> <a href="contact.html">Contact</a></li>
             <li> <a href="sitemap.html">Sitemap</a></li>
-        </ol>
+        </ul>
     </nav>
  <main>
    <h1>Contact us</h1>
     <form>
         <fieldset>
-            <legend class="bold"> Your Information </legend>
-            
+            <legend class="bold"> Your Information </legend>       
             <label for="name" class="block">Name</label>
             <input type="text" name="name" id="name">
 
@@ -35,16 +34,42 @@
             <label for="email" class="block">Email</label>
             <input type="text" name="email" id="email">
           
-            <label for="otherComments" class="block"> Comments</label>
-            <textarea name="otherComments" id="otherComments" cols="50" rows="4"></textarea>
         </fieldset><br>
 
-        <div>
-            <input type="submit" value="Submit">
-            <input type="reset" value="Reset">
-        </div>
+        <fieldset>
+            <legend class="bold"> Gym Preference </legend>
+            <label for="preferedGym" class="block"> Which gym do you prefer?</label><br>
+            <select name="preferedGym" id="preferedGym">
+                <option value="goodlife">GoodLife</option>
+                <option value="lafitness">LA Fitness</option>
+                <option value="lifetimefitness">Lifetime Fitness</option>
+            </select>
+   
+            <p>Bugetary Preference</p>
+            <input type="radio" name="pricep" id="low-medium" value="Low-medium">
+            <label for="low-medium"> Low-Moderate</label>
+            
+            <input type="radio" name="pricep" id="moderate" value="Moderate">
+            <label for="moderate"> Moderate</label>
+         
+            <input type="radio" name="pricep" id="high-end" value="High-end">
+            <label for="high-end"> High-End</label><br><br>
+
+            <label for="otherComments" class="block"> Additional Comments:</label>
+            <textarea name="otherComments" id="otherComments" cols="50" rows="4"></textarea>
+
+            <fieldset>
+                <legend class="bold"> Forms Submission </legend>
+                <input type="submit" value="Submit">
+                <input type="reset" value="Reset">
+            </fieldset>
     </form>
 </main>
+<aside>
+    <img src="Images/ownerpic.jpg"  alt="Owner of the Company" id="OP" height="290" width="320">
+    <p>Phone: (416) 765-4321</p>
+    Email: <a href="mailto:ghobi77@gymselector.ca">ghobi77@gymselector.ca</a>
+</aside>
     <footer>
         <p>&copy; 2025 Ghobi INC. All rights reserved</p>
     </footer>
