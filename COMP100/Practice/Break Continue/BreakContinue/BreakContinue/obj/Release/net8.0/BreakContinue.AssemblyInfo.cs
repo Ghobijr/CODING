@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BreakContinue")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a53d3597869b13c7174242b5870b5d88b520e9d3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f32b999388b23824a4795458ee6548ac8421ff4b")]
 [assembly: System.Reflection.AssemblyProductAttribute("BreakContinue")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BreakContinue")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

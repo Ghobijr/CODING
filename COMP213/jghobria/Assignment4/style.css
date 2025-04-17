@@ -7,7 +7,7 @@
 
 header,nav,main,aside,footer {
     background-color: #ffffff; 
-    border: 1px solid black
+    border: 1px solid black;
 }
 
 body {
@@ -19,7 +19,6 @@ header {
     display: flex;
     align-items: center;
     gap: 1em;
-
 }
 
 nav ol {
@@ -31,10 +30,6 @@ nav ol li {
     background-color: grey;
     padding: 10px ;
     border-bottom: 2px solid black;  
-}
-
-nav li:first-child {
-    border-top: 1px solid black; 
 }
 
 main {
@@ -84,8 +79,8 @@ footer {
 
     nav ol li {
         border-bottom: none;
+        border-top: none;
     }
-
 
     aside img{
         width: 200px;
@@ -121,10 +116,10 @@ footer {
         display: block;
     }
 
-    nav ol li {
-        display: block;
+        nav ol li {
+            display: block;
+        }
     }
 
     
   
-}

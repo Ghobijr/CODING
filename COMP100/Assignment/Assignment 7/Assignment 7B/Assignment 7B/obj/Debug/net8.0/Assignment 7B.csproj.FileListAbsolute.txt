@@ -1,0 +1,15 @@
+D:\Studying\Centennial\CODING\COMP100\Assignment\Assignment 7\Assignment 7B\Assignment 7B\bin\Debug\net8.0\Assignment 7B.exe
+D:\Studying\Centennial\CODING\COMP100\Assignment\Assignment 7\Assignment 7B\Assignment 7B\bin\Debug\net8.0\Assignment 7B.deps.json
+D:\Studying\Centennial\CODING\COMP100\Assignment\Assignment 7\Assignment 7B\Assignment 7B\bin\Debug\net8.0\Assignment 7B.runtimeconfig.json
+D:\Studying\Centennial\CODING\COMP100\Assignment\Assignment 7\Assignment 7B\Assignment 7B\bin\Debug\net8.0\Assignment 7B.dll
+D:\Studying\Centennial\CODING\COMP100\Assignment\Assignment 7\Assignment 7B\Assignment 7B\bin\Debug\net8.0\Assignment 7B.pdb
+D:\Studying\Centennial\CODING\COMP100\Assignment\Assignment 7\Assignment 7B\Assignment 7B\obj\Debug\net8.0\Assignment 7B.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studying\Centennial\CODING\COMP100\Assignment\Assignment 7\Assignment 7B\Assignment 7B\obj\Debug\net8.0\Assignment 7B.AssemblyInfoInputs.cache
+D:\Studying\Centennial\CODING\COMP100\Assignment\Assignment 7\Assignment 7B\Assignment 7B\obj\Debug\net8.0\Assignment 7B.AssemblyInfo.cs
+D:\Studying\Centennial\CODING\COMP100\Assignment\Assignment 7\Assignment 7B\Assignment 7B\obj\Debug\net8.0\Assignment 7B.csproj.CoreCompileInputs.cache
+D:\Studying\Centennial\CODING\COMP100\Assignment\Assignment 7\Assignment 7B\Assignment 7B\obj\Debug\net8.0\Assignment 7B.sourcelink.json
+D:\Studying\Centennial\CODING\COMP100\Assignment\Assignment 7\Assignment 7B\Assignment 7B\obj\Debug\net8.0\Assignment 7B.dll
+D:\Studying\Centennial\CODING\COMP100\Assignment\Assignment 7\Assignment 7B\Assignment 7B\obj\Debug\net8.0\refint\Assignment 7B.dll
+D:\Studying\Centennial\CODING\COMP100\Assignment\Assignment 7\Assignment 7B\Assignment 7B\obj\Debug\net8.0\Assignment 7B.pdb
+D:\Studying\Centennial\CODING\COMP100\Assignment\Assignment 7\Assignment 7B\Assignment 7B\obj\Debug\net8.0\Assignment 7B.genruntimeconfig.cache
+D:\Studying\Centennial\CODING\COMP100\Assignment\Assignment 7\Assignment 7B\Assignment 7B\obj\Debug\net8.0\ref\Assignment 7B.dll

@@ -1,0 +1,15 @@
+D:\Studying\Centennial\CODING\COMP100\Assignment\Assignment 8\Assignment 8\Assignment 8\bin\Debug\net8.0\Assignment 8.exe
+D:\Studying\Centennial\CODING\COMP100\Assignment\Assignment 8\Assignment 8\Assignment 8\bin\Debug\net8.0\Assignment 8.deps.json
+D:\Studying\Centennial\CODING\COMP100\Assignment\Assignment 8\Assignment 8\Assignment 8\bin\Debug\net8.0\Assignment 8.runtimeconfig.json
+D:\Studying\Centennial\CODING\COMP100\Assignment\Assignment 8\Assignment 8\Assignment 8\bin\Debug\net8.0\Assignment 8.dll
+D:\Studying\Centennial\CODING\COMP100\Assignment\Assignment 8\Assignment 8\Assignment 8\bin\Debug\net8.0\Assignment 8.pdb
+D:\Studying\Centennial\CODING\COMP100\Assignment\Assignment 8\Assignment 8\Assignment 8\obj\Debug\net8.0\Assignment 8.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studying\Centennial\CODING\COMP100\Assignment\Assignment 8\Assignment 8\Assignment 8\obj\Debug\net8.0\Assignment 8.AssemblyInfoInputs.cache
+D:\Studying\Centennial\CODING\COMP100\Assignment\Assignment 8\Assignment 8\Assignment 8\obj\Debug\net8.0\Assignment 8.AssemblyInfo.cs
+D:\Studying\Centennial\CODING\COMP100\Assignment\Assignment 8\Assignment 8\Assignment 8\obj\Debug\net8.0\Assignment 8.csproj.CoreCompileInputs.cache
+D:\Studying\Centennial\CODING\COMP100\Assignment\Assignment 8\Assignment 8\Assignment 8\obj\Debug\net8.0\Assignment 8.sourcelink.json
+D:\Studying\Centennial\CODING\COMP100\Assignment\Assignment 8\Assignment 8\Assignment 8\obj\Debug\net8.0\Assignment 8.dll
+D:\Studying\Centennial\CODING\COMP100\Assignment\Assignment 8\Assignment 8\Assignment 8\obj\Debug\net8.0\refint\Assignment 8.dll
+D:\Studying\Centennial\CODING\COMP100\Assignment\Assignment 8\Assignment 8\Assignment 8\obj\Debug\net8.0\Assignment 8.pdb
+D:\Studying\Centennial\CODING\COMP100\Assignment\Assignment 8\Assignment 8\Assignment 8\obj\Debug\net8.0\Assignment 8.genruntimeconfig.cache
+D:\Studying\Centennial\CODING\COMP100\Assignment\Assignment 8\Assignment 8\Assignment 8\obj\Debug\net8.0\ref\Assignment 8.dll

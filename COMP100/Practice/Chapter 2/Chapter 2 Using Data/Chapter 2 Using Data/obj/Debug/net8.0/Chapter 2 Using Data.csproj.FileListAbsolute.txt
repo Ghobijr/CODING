@@ -1,0 +1,15 @@
+D:\Studying\Centennial\CODING\COMP100\Practice\Chapter 2\Chapter 2 Using Data\Chapter 2 Using Data\bin\Debug\net8.0\Chapter 2 Using Data.exe
+D:\Studying\Centennial\CODING\COMP100\Practice\Chapter 2\Chapter 2 Using Data\Chapter 2 Using Data\bin\Debug\net8.0\Chapter 2 Using Data.deps.json
+D:\Studying\Centennial\CODING\COMP100\Practice\Chapter 2\Chapter 2 Using Data\Chapter 2 Using Data\bin\Debug\net8.0\Chapter 2 Using Data.runtimeconfig.json
+D:\Studying\Centennial\CODING\COMP100\Practice\Chapter 2\Chapter 2 Using Data\Chapter 2 Using Data\bin\Debug\net8.0\Chapter 2 Using Data.dll
+D:\Studying\Centennial\CODING\COMP100\Practice\Chapter 2\Chapter 2 Using Data\Chapter 2 Using Data\bin\Debug\net8.0\Chapter 2 Using Data.pdb
+D:\Studying\Centennial\CODING\COMP100\Practice\Chapter 2\Chapter 2 Using Data\Chapter 2 Using Data\obj\Debug\net8.0\Chapter 2 Using Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studying\Centennial\CODING\COMP100\Practice\Chapter 2\Chapter 2 Using Data\Chapter 2 Using Data\obj\Debug\net8.0\Chapter 2 Using Data.AssemblyInfoInputs.cache
+D:\Studying\Centennial\CODING\COMP100\Practice\Chapter 2\Chapter 2 Using Data\Chapter 2 Using Data\obj\Debug\net8.0\Chapter 2 Using Data.AssemblyInfo.cs
+D:\Studying\Centennial\CODING\COMP100\Practice\Chapter 2\Chapter 2 Using Data\Chapter 2 Using Data\obj\Debug\net8.0\Chapter 2 Using Data.csproj.CoreCompileInputs.cache
+D:\Studying\Centennial\CODING\COMP100\Practice\Chapter 2\Chapter 2 Using Data\Chapter 2 Using Data\obj\Debug\net8.0\Chapter 2 Using Data.sourcelink.json
+D:\Studying\Centennial\CODING\COMP100\Practice\Chapter 2\Chapter 2 Using Data\Chapter 2 Using Data\obj\Debug\net8.0\Chapter 2 Using Data.dll
+D:\Studying\Centennial\CODING\COMP100\Practice\Chapter 2\Chapter 2 Using Data\Chapter 2 Using Data\obj\Debug\net8.0\refint\Chapter 2 Using Data.dll
+D:\Studying\Centennial\CODING\COMP100\Practice\Chapter 2\Chapter 2 Using Data\Chapter 2 Using Data\obj\Debug\net8.0\Chapter 2 Using Data.pdb
+D:\Studying\Centennial\CODING\COMP100\Practice\Chapter 2\Chapter 2 Using Data\Chapter 2 Using Data\obj\Debug\net8.0\Chapter 2 Using Data.genruntimeconfig.cache
+D:\Studying\Centennial\CODING\COMP100\Practice\Chapter 2\Chapter 2 Using Data\Chapter 2 Using Data\obj\Debug\net8.0\ref\Chapter 2 Using Data.dll

@@ -1,212 +1,227 @@
-/* General Styles */
-body {
-    font-family: Arial, sans-serif;
+/* Mobile View*/
+* {
+    box-sizing: border-box;
     margin: 0;
     padding: 0;
-    background-color: #f4f4f4;
-    color: #333;
-    
+}
+
+header,nav,main,aside,footer {
+    background-color: #ffffff; 
+}
+
+body {
+    background-color: #6e706d;
+    min-width: 500px;
 }
 
 header {
-    background-color: #4CAF50; /* Green color scheme */
-    padding: 20px;
-    text-align: center;
+    display: flex;
+    align-items: center;
+    gap: 1em;
+    background-color: greenyellow;
+    height: 100px;
+}
+
+header h1 {
+    font-size: 2em;
+    color: rgb(61, 95, 67);
+}
+
+h1,h2{
+    color: rgb(108, 148, 48);
 }
 
 header img {
-    max-width: 100%;
-    height: auto;
+   max-height: 100%;
+   width: auto;
 }
 
 nav {
-    background-color: #333;
-    color: #fff;
-    padding: 10px 0;
+    background-color:grey;
 }
 
 nav ul {
     list-style-type: none;
-    padding: 0;
     text-align: center;
 }
 
 nav ul li {
-    display: inline;
-    margin: 0 15px;
+    background-color: grey;
+    padding: 5px ; 
 }
 
 nav ul li a {
-    color: #fff;
     text-decoration: none;
 }
 
-nav li a:hover {
-    text-decoration: underline;
+nav ul li a:hover {
+    color: white;
 }
 
 main {
-    padding: 20px;
-    max-width: 1200px;
-    margin: 0 auto;
+    padding: 10px;
 }
 
-h1, h2, h3 {
-    color: #4CAF50;
+main p{
+    margin: 10px;
 }
 
-
-aside {
-    background-color: #f4f4f4;
-    padding: 20px;
-    margin: 20px 0;
-    text-align: center;
+aside{
+    text-align:center;
+    background-color: grey;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0%;
 }
 
 aside img {
-    max-width: 50%;
+    width: 50%;
     height: auto;
-    border-radius: 10%;
+    margin: 10px;
+
+}
+
+aside p {
+    margin: 10px 0;
+    text-align: center; 
+}
+
+aside a {
+    display: block;
+    margin-top: 5px;
+    text-align: center;
+    padding: 5px;
 }
 
 footer {
-    background-color: #4CAF50;
-    color: #fff;
+    border-top: 1px solid black;
+    padding: 1em;
     text-align: center;
-    padding: 1px 0;
-    position: static;
-    width: 100%;
-    bottom: 0;
+    background-color: greenyellow;
 }
 
-textarea {
-    width: 100%;  /* Make textarea take up 100% of its container width */
-    padding: 10px;
-    box-sizing: border-box; /* Ensure padding does not affect width */
-    resize: vertical; /* Allow vertical resizing but prevent horizontal resizing */
-}
-
-table {
-    border-collapse: collapse; /* Removes extra space between table cells */
-    width: 100%; /* Ensures the table takes up the full width */
-}
-
-table, th, td {
-    border: 1px solid black; /* Adds borders to the table and cells */
-}
-
-.block {
+form {
     display: block;
+    flex-direction: column;
+    gap: 15px;
+    padding: 20px;
+    margin:auto;
+}
+
+form input, form select, form textarea {
+    width: 100%; 
+    padding: 5px;
+    margin-bottom: 5px;
+}
+
+form input[type="radio"] {
+    width: auto;
 }
 
 .bold {
     font-weight: bold;
 }
 
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
 
-/* Tablet */
-@media (max-width: 768px) {
+table, th, td {
+    border: 1px solid black;
+    padding: 5px;
+}
+
+thead {
+    background-color: #d9efcb;
+}
+
+.gymselector{
+    text-align: center;
+    padding-top: 2%;
+}
+
+.gymselector p{
+    margin: 5%;
+}
+
+.gymselector a {
+    text-decoration: none;
+}
+
+.goodlifegs, .lags,.ltgs {
+    padding-top:2%;
+}
+
+main ul li {
+    padding-left: 15px;
+    list-style-position: inside;
+    width: auto;
+}
+
+/* Tablet View*/
+@media (min-width: 680px){
+    body{
+        display: grid;
+        grid-template-columns: 1fr .4fr;
+        grid-template-rows: auto;
+        grid-template-areas:
+        "header header"
+        "nav nav"
+        "main aside"
+        "footer footer";
+    }
+
+    header {grid-area: header;}
+    nav {grid-area: nav;}
+    main {grid-area: main;}
+    aside {grid-area: aside;}
+    footer {grid-area: footer;}
+
+    nav ul {
+        display: flex;
+        justify-content:space-evenly;
+  
+    }
+
     nav ul li {
-        display: block;
-        margin: 10px 0;
+        border-bottom: none;
     }
 
-    footer {
-        padding: 1px 0; 
-        position: static; 
+    aside img{
+        width: 80%;
     }
 
-    textarea {
-        width: 100%;  /* Ensures the textarea takes the full width on tablets */
-    }
-
-    table {
-        border-collapse: collapse; /* Removes extra space between table cells */
-        width: 100%; /* Ensures the table takes up the full width */
-    }
-    
-    table, th, td {
-        border: 1px solid black; /* Adds borders to the table and cells */
-    }
-
-    footer {
-        padding: 1px 0; 
-        position: static; 
-    }
-
-    main img{
-        display: block;
-        margin: 0 auto;
-    }
-
-    .gymselector h2 {
-        text-align: center;
-    }
-    
-    .goodlifegs a {
-        display: block;       
-        text-align: center;    
-        margin: 0 auto;       
-        text-decoration: none; 
-    }
-    
-    .lags a{
-        display: block;        
-        text-align: center;    
-        margin: 0 auto;        
-        text-decoration: none; 
-    }
-    .ltgs a {
-        display: block;        /* Makes the link a block element */
-        text-align: center;    /* Centers the text */
-        margin: 0 auto;        /* Centers the link horizontally */
-        text-decoration: none; /* Optional: Remove underline */
+    aside{
+       justify-content: flex-start ;
     }
 }
 
+/* Desktop View*/
+@media (min-width: 1024px){
+    body{
+        display: grid;
+        grid-template-columns: 150px 2fr 0.5fr;
+        grid-template-rows: auto;
+        grid-template-areas:
+        "header header header"
+        "nav main aside"
+        "footer footer footer";
+        width: 80%;
+        margin: auto;
+    }
 
-/* Mobile */
-@media (max-width: 414px) {
-    header img {
-        width: 100%;
+    aside img{
+        width: 80%;
+    }
+    
+    nav ul {
+        display: block;
     }
 
     nav ul li {
         display: block;
-        margin: 5px 0;
     }
-
-    main li{
-        list-style-type: none;
-    }
-
-
-    main {
-        padding: 10px;
-        text-align: center;
-    }
-
-    aside img {
-            max-width: 70%; /* Adjust for small screens */
-    }
-
-    table {
-        border-collapse: collapse; /* Removes extra space between table cells */
-        width: 100%; /* Ensures the table takes up the full width */
-    }
-    
-    table, th, td {
-        border: 1px solid black; /* Adds borders to the table and cells */
-    }
-    
-    td, th {
-        padding: 8px; /* Adds padding inside cells */
-    }
-    
-    
-    footer {
-        padding: 1px 0; 
-        position: static; 
-    }
-    
 }

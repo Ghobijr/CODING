@@ -1,0 +1,15 @@
+D:\Studying\Centennial\CODING\COMP100\Practice\Ref and Out\Ref and Out\bin\Debug\net8.0\Ref and Out.exe
+D:\Studying\Centennial\CODING\COMP100\Practice\Ref and Out\Ref and Out\bin\Debug\net8.0\Ref and Out.deps.json
+D:\Studying\Centennial\CODING\COMP100\Practice\Ref and Out\Ref and Out\bin\Debug\net8.0\Ref and Out.runtimeconfig.json
+D:\Studying\Centennial\CODING\COMP100\Practice\Ref and Out\Ref and Out\bin\Debug\net8.0\Ref and Out.dll
+D:\Studying\Centennial\CODING\COMP100\Practice\Ref and Out\Ref and Out\bin\Debug\net8.0\Ref and Out.pdb
+D:\Studying\Centennial\CODING\COMP100\Practice\Ref and Out\Ref and Out\obj\Debug\net8.0\Ref and Out.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studying\Centennial\CODING\COMP100\Practice\Ref and Out\Ref and Out\obj\Debug\net8.0\Ref and Out.AssemblyInfoInputs.cache
+D:\Studying\Centennial\CODING\COMP100\Practice\Ref and Out\Ref and Out\obj\Debug\net8.0\Ref and Out.AssemblyInfo.cs
+D:\Studying\Centennial\CODING\COMP100\Practice\Ref and Out\Ref and Out\obj\Debug\net8.0\Ref and Out.csproj.CoreCompileInputs.cache
+D:\Studying\Centennial\CODING\COMP100\Practice\Ref and Out\Ref and Out\obj\Debug\net8.0\Ref and Out.sourcelink.json
+D:\Studying\Centennial\CODING\COMP100\Practice\Ref and Out\Ref and Out\obj\Debug\net8.0\Ref and Out.dll
+D:\Studying\Centennial\CODING\COMP100\Practice\Ref and Out\Ref and Out\obj\Debug\net8.0\refint\Ref and Out.dll
+D:\Studying\Centennial\CODING\COMP100\Practice\Ref and Out\Ref and Out\obj\Debug\net8.0\Ref and Out.pdb
+D:\Studying\Centennial\CODING\COMP100\Practice\Ref and Out\Ref and Out\obj\Debug\net8.0\Ref and Out.genruntimeconfig.cache
+D:\Studying\Centennial\CODING\COMP100\Practice\Ref and Out\Ref and Out\obj\Debug\net8.0\ref\Ref and Out.dll

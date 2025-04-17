@@ -1,0 +1,15 @@
+D:\Studying\Centennial\CODING\COMP100\Practice\Chapter 1\chapter 1 excercise\chapter 1 excercise\bin\Debug\net8.0\chapter 1 excercise.exe
+D:\Studying\Centennial\CODING\COMP100\Practice\Chapter 1\chapter 1 excercise\chapter 1 excercise\bin\Debug\net8.0\chapter 1 excercise.deps.json
+D:\Studying\Centennial\CODING\COMP100\Practice\Chapter 1\chapter 1 excercise\chapter 1 excercise\bin\Debug\net8.0\chapter 1 excercise.runtimeconfig.json
+D:\Studying\Centennial\CODING\COMP100\Practice\Chapter 1\chapter 1 excercise\chapter 1 excercise\bin\Debug\net8.0\chapter 1 excercise.dll
+D:\Studying\Centennial\CODING\COMP100\Practice\Chapter 1\chapter 1 excercise\chapter 1 excercise\bin\Debug\net8.0\chapter 1 excercise.pdb
+D:\Studying\Centennial\CODING\COMP100\Practice\Chapter 1\chapter 1 excercise\chapter 1 excercise\obj\Debug\net8.0\chapter 1 excercise.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studying\Centennial\CODING\COMP100\Practice\Chapter 1\chapter 1 excercise\chapter 1 excercise\obj\Debug\net8.0\chapter 1 excercise.AssemblyInfoInputs.cache
+D:\Studying\Centennial\CODING\COMP100\Practice\Chapter 1\chapter 1 excercise\chapter 1 excercise\obj\Debug\net8.0\chapter 1 excercise.AssemblyInfo.cs
+D:\Studying\Centennial\CODING\COMP100\Practice\Chapter 1\chapter 1 excercise\chapter 1 excercise\obj\Debug\net8.0\chapter 1 excercise.csproj.CoreCompileInputs.cache
+D:\Studying\Centennial\CODING\COMP100\Practice\Chapter 1\chapter 1 excercise\chapter 1 excercise\obj\Debug\net8.0\chapter 1 excercise.sourcelink.json
+D:\Studying\Centennial\CODING\COMP100\Practice\Chapter 1\chapter 1 excercise\chapter 1 excercise\obj\Debug\net8.0\chapter 1 excercise.dll
+D:\Studying\Centennial\CODING\COMP100\Practice\Chapter 1\chapter 1 excercise\chapter 1 excercise\obj\Debug\net8.0\refint\chapter 1 excercise.dll
+D:\Studying\Centennial\CODING\COMP100\Practice\Chapter 1\chapter 1 excercise\chapter 1 excercise\obj\Debug\net8.0\chapter 1 excercise.pdb
+D:\Studying\Centennial\CODING\COMP100\Practice\Chapter 1\chapter 1 excercise\chapter 1 excercise\obj\Debug\net8.0\chapter 1 excercise.genruntimeconfig.cache
+D:\Studying\Centennial\CODING\COMP100\Practice\Chapter 1\chapter 1 excercise\chapter 1 excercise\obj\Debug\net8.0\ref\chapter 1 excercise.dll

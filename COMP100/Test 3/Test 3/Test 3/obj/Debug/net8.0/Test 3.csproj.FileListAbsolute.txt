@@ -1,0 +1,15 @@
+D:\Studying\Centennial\CODING\COMP100\Test 3\Test 3\Test 3\bin\Debug\net8.0\Test 3.exe
+D:\Studying\Centennial\CODING\COMP100\Test 3\Test 3\Test 3\bin\Debug\net8.0\Test 3.deps.json
+D:\Studying\Centennial\CODING\COMP100\Test 3\Test 3\Test 3\bin\Debug\net8.0\Test 3.runtimeconfig.json
+D:\Studying\Centennial\CODING\COMP100\Test 3\Test 3\Test 3\bin\Debug\net8.0\Test 3.dll
+D:\Studying\Centennial\CODING\COMP100\Test 3\Test 3\Test 3\bin\Debug\net8.0\Test 3.pdb
+D:\Studying\Centennial\CODING\COMP100\Test 3\Test 3\Test 3\obj\Debug\net8.0\Test 3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studying\Centennial\CODING\COMP100\Test 3\Test 3\Test 3\obj\Debug\net8.0\Test 3.AssemblyInfoInputs.cache
+D:\Studying\Centennial\CODING\COMP100\Test 3\Test 3\Test 3\obj\Debug\net8.0\Test 3.AssemblyInfo.cs
+D:\Studying\Centennial\CODING\COMP100\Test 3\Test 3\Test 3\obj\Debug\net8.0\Test 3.csproj.CoreCompileInputs.cache
+D:\Studying\Centennial\CODING\COMP100\Test 3\Test 3\Test 3\obj\Debug\net8.0\Test 3.sourcelink.json
+D:\Studying\Centennial\CODING\COMP100\Test 3\Test 3\Test 3\obj\Debug\net8.0\Test 3.dll
+D:\Studying\Centennial\CODING\COMP100\Test 3\Test 3\Test 3\obj\Debug\net8.0\refint\Test 3.dll
+D:\Studying\Centennial\CODING\COMP100\Test 3\Test 3\Test 3\obj\Debug\net8.0\Test 3.pdb
+D:\Studying\Centennial\CODING\COMP100\Test 3\Test 3\Test 3\obj\Debug\net8.0\Test 3.genruntimeconfig.cache
+D:\Studying\Centennial\CODING\COMP100\Test 3\Test 3\Test 3\obj\Debug\net8.0\ref\Test 3.dll

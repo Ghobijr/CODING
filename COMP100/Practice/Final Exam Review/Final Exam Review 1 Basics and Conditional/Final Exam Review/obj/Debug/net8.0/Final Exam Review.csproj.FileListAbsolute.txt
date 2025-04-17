@@ -1,0 +1,15 @@
+D:\Studying\Centennial\CODING\COMP100\Practice\Final Exam Review\Final Exam Review\Final Exam Review\bin\Debug\net8.0\Final Exam Review.exe
+D:\Studying\Centennial\CODING\COMP100\Practice\Final Exam Review\Final Exam Review\Final Exam Review\bin\Debug\net8.0\Final Exam Review.deps.json
+D:\Studying\Centennial\CODING\COMP100\Practice\Final Exam Review\Final Exam Review\Final Exam Review\bin\Debug\net8.0\Final Exam Review.runtimeconfig.json
+D:\Studying\Centennial\CODING\COMP100\Practice\Final Exam Review\Final Exam Review\Final Exam Review\bin\Debug\net8.0\Final Exam Review.dll
+D:\Studying\Centennial\CODING\COMP100\Practice\Final Exam Review\Final Exam Review\Final Exam Review\bin\Debug\net8.0\Final Exam Review.pdb
+D:\Studying\Centennial\CODING\COMP100\Practice\Final Exam Review\Final Exam Review\Final Exam Review\obj\Debug\net8.0\Final Exam Review.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studying\Centennial\CODING\COMP100\Practice\Final Exam Review\Final Exam Review\Final Exam Review\obj\Debug\net8.0\Final Exam Review.AssemblyInfoInputs.cache
+D:\Studying\Centennial\CODING\COMP100\Practice\Final Exam Review\Final Exam Review\Final Exam Review\obj\Debug\net8.0\Final Exam Review.AssemblyInfo.cs
+D:\Studying\Centennial\CODING\COMP100\Practice\Final Exam Review\Final Exam Review\Final Exam Review\obj\Debug\net8.0\Final Exam Review.csproj.CoreCompileInputs.cache
+D:\Studying\Centennial\CODING\COMP100\Practice\Final Exam Review\Final Exam Review\Final Exam Review\obj\Debug\net8.0\Final Exam Review.sourcelink.json
+D:\Studying\Centennial\CODING\COMP100\Practice\Final Exam Review\Final Exam Review\Final Exam Review\obj\Debug\net8.0\Final Exam Review.dll
+D:\Studying\Centennial\CODING\COMP100\Practice\Final Exam Review\Final Exam Review\Final Exam Review\obj\Debug\net8.0\refint\Final Exam Review.dll
+D:\Studying\Centennial\CODING\COMP100\Practice\Final Exam Review\Final Exam Review\Final Exam Review\obj\Debug\net8.0\Final Exam Review.pdb
+D:\Studying\Centennial\CODING\COMP100\Practice\Final Exam Review\Final Exam Review\Final Exam Review\obj\Debug\net8.0\Final Exam Review.genruntimeconfig.cache
+D:\Studying\Centennial\CODING\COMP100\Practice\Final Exam Review\Final Exam Review\Final Exam Review\obj\Debug\net8.0\ref\Final Exam Review.dll

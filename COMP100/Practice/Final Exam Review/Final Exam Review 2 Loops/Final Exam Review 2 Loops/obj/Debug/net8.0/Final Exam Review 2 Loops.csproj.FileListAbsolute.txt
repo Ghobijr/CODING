@@ -1,0 +1,15 @@
+D:\Studying\Centennial\CODING\COMP100\Practice\Final Exam Review\Final Exam Review 2 Loops\Final Exam Review 2 Loops\bin\Debug\net8.0\Final Exam Review 2 Loops.exe
+D:\Studying\Centennial\CODING\COMP100\Practice\Final Exam Review\Final Exam Review 2 Loops\Final Exam Review 2 Loops\bin\Debug\net8.0\Final Exam Review 2 Loops.deps.json
+D:\Studying\Centennial\CODING\COMP100\Practice\Final Exam Review\Final Exam Review 2 Loops\Final Exam Review 2 Loops\bin\Debug\net8.0\Final Exam Review 2 Loops.runtimeconfig.json
+D:\Studying\Centennial\CODING\COMP100\Practice\Final Exam Review\Final Exam Review 2 Loops\Final Exam Review 2 Loops\bin\Debug\net8.0\Final Exam Review 2 Loops.dll
+D:\Studying\Centennial\CODING\COMP100\Practice\Final Exam Review\Final Exam Review 2 Loops\Final Exam Review 2 Loops\bin\Debug\net8.0\Final Exam Review 2 Loops.pdb
+D:\Studying\Centennial\CODING\COMP100\Practice\Final Exam Review\Final Exam Review 2 Loops\Final Exam Review 2 Loops\obj\Debug\net8.0\Final Exam Review 2 Loops.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studying\Centennial\CODING\COMP100\Practice\Final Exam Review\Final Exam Review 2 Loops\Final Exam Review 2 Loops\obj\Debug\net8.0\Final Exam Review 2 Loops.AssemblyInfoInputs.cache
+D:\Studying\Centennial\CODING\COMP100\Practice\Final Exam Review\Final Exam Review 2 Loops\Final Exam Review 2 Loops\obj\Debug\net8.0\Final Exam Review 2 Loops.AssemblyInfo.cs
+D:\Studying\Centennial\CODING\COMP100\Practice\Final Exam Review\Final Exam Review 2 Loops\Final Exam Review 2 Loops\obj\Debug\net8.0\Final Exam Review 2 Loops.csproj.CoreCompileInputs.cache
+D:\Studying\Centennial\CODING\COMP100\Practice\Final Exam Review\Final Exam Review 2 Loops\Final Exam Review 2 Loops\obj\Debug\net8.0\Final Exam Review 2 Loops.sourcelink.json
+D:\Studying\Centennial\CODING\COMP100\Practice\Final Exam Review\Final Exam Review 2 Loops\Final Exam Review 2 Loops\obj\Debug\net8.0\Final Exam Review 2 Loops.dll
+D:\Studying\Centennial\CODING\COMP100\Practice\Final Exam Review\Final Exam Review 2 Loops\Final Exam Review 2 Loops\obj\Debug\net8.0\refint\Final Exam Review 2 Loops.dll
+D:\Studying\Centennial\CODING\COMP100\Practice\Final Exam Review\Final Exam Review 2 Loops\Final Exam Review 2 Loops\obj\Debug\net8.0\Final Exam Review 2 Loops.pdb
+D:\Studying\Centennial\CODING\COMP100\Practice\Final Exam Review\Final Exam Review 2 Loops\Final Exam Review 2 Loops\obj\Debug\net8.0\Final Exam Review 2 Loops.genruntimeconfig.cache
+D:\Studying\Centennial\CODING\COMP100\Practice\Final Exam Review\Final Exam Review 2 Loops\Final Exam Review 2 Loops\obj\Debug\net8.0\ref\Final Exam Review 2 Loops.dll

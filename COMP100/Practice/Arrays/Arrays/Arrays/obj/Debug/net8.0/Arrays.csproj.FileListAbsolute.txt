@@ -1,0 +1,15 @@
+D:\Studying\Centennial\CODING\COMP100\Practice\Arrays\Arrays\Arrays\bin\Debug\net8.0\Arrays.exe
+D:\Studying\Centennial\CODING\COMP100\Practice\Arrays\Arrays\Arrays\bin\Debug\net8.0\Arrays.deps.json
+D:\Studying\Centennial\CODING\COMP100\Practice\Arrays\Arrays\Arrays\bin\Debug\net8.0\Arrays.runtimeconfig.json
+D:\Studying\Centennial\CODING\COMP100\Practice\Arrays\Arrays\Arrays\bin\Debug\net8.0\Arrays.dll
+D:\Studying\Centennial\CODING\COMP100\Practice\Arrays\Arrays\Arrays\bin\Debug\net8.0\Arrays.pdb
+D:\Studying\Centennial\CODING\COMP100\Practice\Arrays\Arrays\Arrays\obj\Debug\net8.0\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studying\Centennial\CODING\COMP100\Practice\Arrays\Arrays\Arrays\obj\Debug\net8.0\Arrays.AssemblyInfoInputs.cache
+D:\Studying\Centennial\CODING\COMP100\Practice\Arrays\Arrays\Arrays\obj\Debug\net8.0\Arrays.AssemblyInfo.cs
+D:\Studying\Centennial\CODING\COMP100\Practice\Arrays\Arrays\Arrays\obj\Debug\net8.0\Arrays.csproj.CoreCompileInputs.cache
+D:\Studying\Centennial\CODING\COMP100\Practice\Arrays\Arrays\Arrays\obj\Debug\net8.0\Arrays.sourcelink.json
+D:\Studying\Centennial\CODING\COMP100\Practice\Arrays\Arrays\Arrays\obj\Debug\net8.0\Arrays.dll
+D:\Studying\Centennial\CODING\COMP100\Practice\Arrays\Arrays\Arrays\obj\Debug\net8.0\refint\Arrays.dll
+D:\Studying\Centennial\CODING\COMP100\Practice\Arrays\Arrays\Arrays\obj\Debug\net8.0\Arrays.pdb
+D:\Studying\Centennial\CODING\COMP100\Practice\Arrays\Arrays\Arrays\obj\Debug\net8.0\Arrays.genruntimeconfig.cache
+D:\Studying\Centennial\CODING\COMP100\Practice\Arrays\Arrays\Arrays\obj\Debug\net8.0\ref\Arrays.dll

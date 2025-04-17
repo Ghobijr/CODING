@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Studying\\Centennial\\CODING\\COMP100\\Assignment\\Assignment 7\\Assignment 7B\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3EC96C93-C43A-4A29-9F04-9754256AD5A9}|Assignment 7B\\Assignment 7B.csproj|d:\\studying\\centennial\\coding\\comp100\\assignment\\assignment 7\\assignment 7b\\assignment 7b\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EC96C93-C43A-4A29-9F04-9754256AD5A9}|Assignment 7B\\Assignment 7B.csproj|solutionrelative:assignment 7b\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Studying\\Centennial\\CODING\\COMP100\\Assignment\\Assignment 7\\Assignment 7B\\Assignment 7B\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment 7B\\Program.cs",
+              "ToolTip": "D:\\Studying\\Centennial\\CODING\\COMP100\\Assignment\\Assignment 7\\Assignment 7B\\Assignment 7B\\Program.cs",
+              "RelativeToolTip": "Assignment 7B\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T22:55:46.983Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

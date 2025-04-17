@@ -1,0 +1,15 @@
+D:\Studying\Centennial\CODING\COMP100\Practice\Methods\Methods in the Lab\Methods in the Lab\bin\Debug\net8.0\Methods in the Lab.exe
+D:\Studying\Centennial\CODING\COMP100\Practice\Methods\Methods in the Lab\Methods in the Lab\bin\Debug\net8.0\Methods in the Lab.deps.json
+D:\Studying\Centennial\CODING\COMP100\Practice\Methods\Methods in the Lab\Methods in the Lab\bin\Debug\net8.0\Methods in the Lab.runtimeconfig.json
+D:\Studying\Centennial\CODING\COMP100\Practice\Methods\Methods in the Lab\Methods in the Lab\bin\Debug\net8.0\Methods in the Lab.dll
+D:\Studying\Centennial\CODING\COMP100\Practice\Methods\Methods in the Lab\Methods in the Lab\bin\Debug\net8.0\Methods in the Lab.pdb
+D:\Studying\Centennial\CODING\COMP100\Practice\Methods\Methods in the Lab\Methods in the Lab\obj\Debug\net8.0\Methods in the Lab.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studying\Centennial\CODING\COMP100\Practice\Methods\Methods in the Lab\Methods in the Lab\obj\Debug\net8.0\Methods in the Lab.AssemblyInfoInputs.cache
+D:\Studying\Centennial\CODING\COMP100\Practice\Methods\Methods in the Lab\Methods in the Lab\obj\Debug\net8.0\Methods in the Lab.AssemblyInfo.cs
+D:\Studying\Centennial\CODING\COMP100\Practice\Methods\Methods in the Lab\Methods in the Lab\obj\Debug\net8.0\Methods in the Lab.csproj.CoreCompileInputs.cache
+D:\Studying\Centennial\CODING\COMP100\Practice\Methods\Methods in the Lab\Methods in the Lab\obj\Debug\net8.0\Methods in the Lab.sourcelink.json
+D:\Studying\Centennial\CODING\COMP100\Practice\Methods\Methods in the Lab\Methods in the Lab\obj\Debug\net8.0\Methods in the Lab.dll
+D:\Studying\Centennial\CODING\COMP100\Practice\Methods\Methods in the Lab\Methods in the Lab\obj\Debug\net8.0\refint\Methods in the Lab.dll
+D:\Studying\Centennial\CODING\COMP100\Practice\Methods\Methods in the Lab\Methods in the Lab\obj\Debug\net8.0\Methods in the Lab.pdb
+D:\Studying\Centennial\CODING\COMP100\Practice\Methods\Methods in the Lab\Methods in the Lab\obj\Debug\net8.0\Methods in the Lab.genruntimeconfig.cache
+D:\Studying\Centennial\CODING\COMP100\Practice\Methods\Methods in the Lab\Methods in the Lab\obj\Debug\net8.0\ref\Methods in the Lab.dll

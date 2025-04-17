@@ -1,0 +1,15 @@
+D:\Studying\Centennial\CODING\COMP100\Assignment\Assignment 9\Assignment 9\Assignment 9\bin\Debug\net8.0\Assignment 9.exe
+D:\Studying\Centennial\CODING\COMP100\Assignment\Assignment 9\Assignment 9\Assignment 9\bin\Debug\net8.0\Assignment 9.deps.json
+D:\Studying\Centennial\CODING\COMP100\Assignment\Assignment 9\Assignment 9\Assignment 9\bin\Debug\net8.0\Assignment 9.runtimeconfig.json
+D:\Studying\Centennial\CODING\COMP100\Assignment\Assignment 9\Assignment 9\Assignment 9\bin\Debug\net8.0\Assignment 9.dll
+D:\Studying\Centennial\CODING\COMP100\Assignment\Assignment 9\Assignment 9\Assignment 9\bin\Debug\net8.0\Assignment 9.pdb
+D:\Studying\Centennial\CODING\COMP100\Assignment\Assignment 9\Assignment 9\Assignment 9\obj\Debug\net8.0\Assignment 9.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studying\Centennial\CODING\COMP100\Assignment\Assignment 9\Assignment 9\Assignment 9\obj\Debug\net8.0\Assignment 9.AssemblyInfoInputs.cache
+D:\Studying\Centennial\CODING\COMP100\Assignment\Assignment 9\Assignment 9\Assignment 9\obj\Debug\net8.0\Assignment 9.AssemblyInfo.cs
+D:\Studying\Centennial\CODING\COMP100\Assignment\Assignment 9\Assignment 9\Assignment 9\obj\Debug\net8.0\Assignment 9.csproj.CoreCompileInputs.cache
+D:\Studying\Centennial\CODING\COMP100\Assignment\Assignment 9\Assignment 9\Assignment 9\obj\Debug\net8.0\Assignment 9.sourcelink.json
+D:\Studying\Centennial\CODING\COMP100\Assignment\Assignment 9\Assignment 9\Assignment 9\obj\Debug\net8.0\Assignment 9.dll
+D:\Studying\Centennial\CODING\COMP100\Assignment\Assignment 9\Assignment 9\Assignment 9\obj\Debug\net8.0\refint\Assignment 9.dll
+D:\Studying\Centennial\CODING\COMP100\Assignment\Assignment 9\Assignment 9\Assignment 9\obj\Debug\net8.0\Assignment 9.pdb
+D:\Studying\Centennial\CODING\COMP100\Assignment\Assignment 9\Assignment 9\Assignment 9\obj\Debug\net8.0\Assignment 9.genruntimeconfig.cache
+D:\Studying\Centennial\CODING\COMP100\Assignment\Assignment 9\Assignment 9\Assignment 9\obj\Debug\net8.0\ref\Assignment 9.dll

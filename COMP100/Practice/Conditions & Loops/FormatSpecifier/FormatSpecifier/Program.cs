@@ -3,22 +3,22 @@
     private static void Main(string[] args)
     {
 
-        //Slide 06
-        //string strA = "1";
-        //string strB = "-123";
-        //string strC = "123_456_789";
-        //string strD = "0.000_000_129_888_888";
-        //string strE = "12.988_888_8";
-        //string strF = "123.98E001";
+        Slide 06
+        string strA = "1";
+        string strB = "-123";
+        string strC = "123_456_789";
+        string strD = "0.000_000_129_888_888";
+        string strE = "12.988_888_8";
+        string strF = "123.98E001";
 
-        //Console.WriteLine($"|{"Left(-15)",-15}|{"Right(15)",15}|{"Right(15)",15}|");
-        //Console.WriteLine($"|{strA,-15}|{strB,15}|{strC,15}|");
-        //Console.WriteLine($"|{strD,-15}|{strE,15}|{strF,15}|");
+        Console.WriteLine($"|{"Left(-15)",-15}|{"Right(15)",15}|{"Right(15)",15}|");
+        Console.WriteLine($"|{strA,-15}|{strB,15}|{strC,15}|");
+        Console.WriteLine($"|{strD,-15}|{strE,15}|{strF,15}|");
 
-        //Console.ReadKey();
+        Console.ReadKey();
 
 
-        Slide 08
+        // Slide 08
 
         // string strA = "1";
         // string strB = "-123";
