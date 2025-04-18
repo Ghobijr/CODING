@@ -2,50 +2,45 @@
 {
     private static void Main(string[] args)
     {
-        string[] words = { "spiderman", "thor", "hulk"};
-        Random random = new Random();
-        string selectedWord = words[random.Next(words.Length)];
-      
-        DisplayIntro();
+        string word = "spiderman";
+        int maxLives = 7;
 
-        StartGame(selectedWord);
+        DisplayInto();
+        PlayGame(word, maxLives);
     }
 
-    private static void DisplayIntro()
+    static void DisplayInto()
     {
-        Console.WriteLine("Welcome to the Word Guessing Game!");
+        Console.WriteLine("Welcome to Guess the Word!");
+
     }
 
-    private static void StartGame(string word)
+    private static void PlayGame(string word, int maxLives)
     {
-        int maxAttempts = 6;
-        int currentAttempts = 0;
-        bool isGuessCorrect = false;
-        char[] guessedLetters = new char[0];
-        decimal score = 0;
+        int currentLives = maxLives;
+        bool win = false;
+        List<char> guessedLetters = new List<char>();
 
-        while (currentAttempts > 0 && !isGuessCorrect)
+        while (currentLives > 0 && !win)
         {
             DisplayWord(word, guessedLetters);
-            Console.WriteLine($"\nPlease guess a letter! {currentAttempts}/{maxAttempts} lives remaining.");
-            Console.Write("Your guess: ");
-            char guess = Convert.ToChar(Console.ReadLine().ToLower());
+            Console.WriteLine("\nPlease guess a letter!");
+            Console.WriteLine($"{currentLives}/{maxLives} lives remaining.");
+
+            char guess = GetPlayerGuess();
 
             if (ProcessGuess(word, guessedLetters, guess))
-            {
                 Console.WriteLine("Correct!");
-                score += 1.5m;
-            }
             else
             {
                 Console.WriteLine("Incorrect!");
-                currentAttempts--;
+                currentLives--;
             }
 
-            isGuessCorrect = CheckIfWordComplete(word, guessedLetters);
+            win = CheckWinCondition(word, guessedLetters);
         }
 
-        GameResults(isGuessCorrect, score);
+        DisplayGameResult(win);
     }
 
     private static void DisplayWord(string word, List<char> guessedLetters)
@@ -53,22 +48,28 @@
         foreach (char c in word)
         {
             if (guessedLetters.Contains(c))
-                Console.Write($"{c} ");
+                Console.Write(c);
             else
-                Console.Write("_ ");
+                Console.Write("_");
         }
-        Console.WriteLine();
+    }
+
+    private static char GetPlayerGuess()
+    {
+        return Convert.ToChar(Console.ReadLine());
     }
 
     private static bool ProcessGuess(string word, List<char> guessedLetters, char guess)
     {
         if (!guessedLetters.Contains(guess))
+        {
             guessedLetters.Add(guess);
-
-        return word.Contains(guess);
+            return word.Contains(guess);
+        }
+        return false;
     }
 
-    private static bool CheckIfWordComplete(string word, List<char> guessedLetters)
+    private static bool CheckWinCondition(string word, List<char> guessedLetters)
     {
         foreach (char c in word)
         {
@@ -78,16 +79,12 @@
         return true;
     }
 
-    private static void GameResults(bool isGuessCorrect, decimal score)
+    private static void DisplayGameResult(bool win)
     {
-        if (isGuessCorrect)
-        {
+        if (win)
             Console.WriteLine("Congratulations, you win!");
-        }
         else
-        {
             Console.WriteLine("You lose...");
-        }
     }
 }
 
