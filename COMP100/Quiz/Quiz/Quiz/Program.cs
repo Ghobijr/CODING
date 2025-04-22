@@ -1,91 +1,121 @@
-﻿internal class Program
+﻿using static System.Console;
+
+namespace Quiz
 {
-    private static void Main(string[] args)
+    class WordGuessingGame
     {
-        string word = "spiderman";
-        int maxLives = 7;
+        private readonly static string[] words = ["superman", "ironman", "batman"];
+        private readonly static string secretWord = GetWord();
 
-        DisplayInto();
-        PlayGame(word, maxLives);
-    }
+        private static int attempts = 5;
 
-    static void DisplayInto()
-    {
-        Console.WriteLine("Welcome to Guess the Word!");
+        private static char guessedLetter;
+        private static bool guessStatus = false;
+        static bool continuePlaying = false;
+        private static char usersInput;
 
-    }
-
-    private static void PlayGame(string word, int maxLives)
-    {
-        int currentLives = maxLives;
-        bool win = false;
-        List<char> guessedLetters = new List<char>();
-
-        while (currentLives > 0 && !win)
+        private static void Main()
         {
-            DisplayWord(word, guessedLetters);
-            Console.WriteLine("\nPlease guess a letter!");
-            Console.WriteLine($"{currentLives}/{maxLives} lives remaining.");
+            DisplayIntro();
+        }
 
-            char guess = GetPlayerGuess();
+        static void DisplayIntro()
+        {
+            WriteLine("Welcome to the Word Guessing Game");
+            WriteLine("1.Start 2.Exit");
+            usersInput = Convert.ToChar(ReadLine()!);
 
-            if (ProcessGuess(word, guessedLetters, guess))
-                Console.WriteLine("Correct!");
-            else
+            switch (usersInput)
             {
-                Console.WriteLine("Incorrect!");
-                currentLives--;
+                case '1':
+                    do
+                    {
+                        DisplayWord(secretWord, guessedLetter);
+                    }
+                    while (continuePlaying);
+                    break;
+
+                case '2':
+                    WriteLine("Exiting the game. Goodbye!");
+                    break;
+
+                default:
+                    WriteLine("Invalid action. Please enter 1 to start or 2 to exit.");
+                    break;
             }
 
-            win = CheckWinCondition(word, guessedLetters);
+            //Methods
+
+            static void DisplayWord(string secretWord, char guessedLetter)
+            {
+                char[] hiddenWord = new char[secretWord.Length];
+
+                for (int i = 0; i < secretWord.Length; i++)
+                {
+                    hiddenWord[i] = '_'; //fills every hidden letter of the word with _
+                }
+
+                while (attempts > 0 && !guessStatus)
+                {
+                    WriteLine($"Word: {new string(hiddenWord)} Attempts remaining: {attempts}");
+
+                    Write("Guess a letter: ");
+                    guessedLetter = Convert.ToChar(ReadLine()!);
+                    if (secretWord.Contains(guessedLetter))
+                    {
+                        for (int i = 0; i < secretWord.Length; i++)
+                        {
+                            if (secretWord[i] == guessedLetter)
+                            {
+                                hiddenWord[i] = guessedLetter;
+                            }
+                        }
+
+                        if (new string(hiddenWord) == secretWord)
+                        {
+                            guessStatus = true;
+                            WriteLine($"Congratulations! You've guessed the word {secretWord}.");
+                        }
+                    }
+                    else
+                    {
+                        attempts--; //lowers the attempts the user has if incorrect letter added
+                        WriteLine("Incorrect guess. Try again.");
+                    }
+                }
+                if (attempts == 0 && !guessStatus)
+                {
+                    WriteLine($"Sorry, you've run out of attempts. The word was {secretWord}.");
+                }
+
+                Write("Do you want to play again? (Y/N): ");
+
+                if (char.Parse(ReadLine()!.ToUpper()) == 'Y')
+                {
+                    Reset();
+                }
+                else continuePlaying = false;
+                ReadKey(true);
+            }
         }
 
-        DisplayGameResult(win);
-    }
-
-    private static void DisplayWord(string word, List<char> guessedLetters)
-    {
-        foreach (char c in word)
+        static string GetWord()
         {
-            if (guessedLetters.Contains(c))
-                Console.Write(c);
-            else
-                Console.Write("_");
+            Random rand = new();
+            string secretWord = words[rand.Next(words.Length)]; // words[1];
+            return secretWord;
         }
-    }
 
-    private static char GetPlayerGuess()
-    {
-        return Convert.ToChar(Console.ReadLine());
-    }
-
-    private static bool ProcessGuess(string word, List<char> guessedLetters, char guess)
-    {
-        if (!guessedLetters.Contains(guess))
+        static void Reset()
         {
-            guessedLetters.Add(guess);
-            return word.Contains(guess);
+            guessStatus = false;
+            continuePlaying = true;
+            attempts = 5;
+            Clear();
         }
-        return false;
+
     }
 
-    private static bool CheckWinCondition(string word, List<char> guessedLetters)
-    {
-        foreach (char c in word)
-        {
-            if (!guessedLetters.Contains(c))
-                return false;
-        }
-        return true;
-    }
-
-    private static void DisplayGameResult(bool win)
-    {
-        if (win)
-            Console.WriteLine("Congratulations, you win!");
-        else
-            Console.WriteLine("You lose...");
-    }
 }
 
 

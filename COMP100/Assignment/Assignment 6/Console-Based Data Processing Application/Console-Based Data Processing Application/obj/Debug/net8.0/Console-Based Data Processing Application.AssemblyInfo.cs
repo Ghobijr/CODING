@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Console-Based Data Processing Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f32b999388b23824a4795458ee6548ac8421ff4b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+be41ea724c4fc94fd7c4a87c1ae984524bd48f5e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Console-Based Data Processing Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Console-Based Data Processing Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
